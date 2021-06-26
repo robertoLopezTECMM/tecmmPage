@@ -1,0 +1,79 @@
+
+
+.div-principal-contacto{
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  background-color: white;
+}
+
+.div-directorio{
+  background-color: white;
+  width: 100%;
+  margin-left: 0%;
+  margin-right: 0%;
+  padding: 2%;
+  height: 100%;
+}
+
+#texto{
+  text-align: left;
+}
+
+#titulo{
+  color:#2DA19A;
+  font-family: "Gotham-Ultra";
+}
+
+#direccion{
+  color:#6D356C;
+}
+
+#ubicacion{
+  background-color: #2DA19A;
+  color: white;
+}
+
+
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+
+}
+
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+  .div-principal-contacto{
+    width: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+    background-color: white;
+  }
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+  .div-principal-contacto{
+    width: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+    background-color: white;
+  }
+}
+
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:100px) and (max-width: 420px){
+  .div-principal-contacto{
+    width: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+    background-color: white;
+  }
+}

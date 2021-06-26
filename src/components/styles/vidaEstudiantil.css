@@ -1,0 +1,154 @@
+
+.div-principalVidaEstudiantil{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+}
+
+.div-seccionVidaEstudiantil{
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.div-modalRequisitos ul{
+  margin-top: 10%;
+  margin-right: 10%;
+  list-style: decimal;
+  text-align: justify;
+  font-family: "Gotham" !important;
+  color:#6D356C;
+}
+
+.div-modalRequisitos li{
+  margin: 25px;
+  font-size: 15px;
+}
+
+#verde{
+  background-color: #2DA19A;
+}
+
+#morado{
+  background-color: #6D356C;
+}
+
+.img-seccionVidaEstudiantil{
+  width:50%;
+  height: 100%;
+}
+
+.div-textoSeccion{
+  width: 50%;
+  height: 100%;
+  padding: 5%;
+  color: white;
+}
+
+.div-textoSeccion h1{
+  font-family: "Gotham-Ultra"
+}
+
+.div-textoSeccion p{
+  font-family: "Gotham-Book";
+  text-align: justify;
+}
+
+#morado button{
+  width: 50%;
+  height: 50px;
+  background-color: transparent;
+  border: solid 3px #2DA19A;
+  border-radius: 10px;
+  color:white;
+  font-family: "Gotham-Ultra";
+  cursor:pointer;
+}
+
+#morado button:hover{
+  background-color: #2DA19A;
+}
+
+#verde button{
+  width: 50%;
+  height: 50px;
+  background-color: transparent;
+  border: solid 3px #6D356C;
+  border-radius: 10px;
+  color:white;
+  font-family: "Gotham-Ultra";
+  cursor:pointer;
+}
+
+#verde button:hover{
+  background-color: #6D356C;
+}
+
+
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+  .div-textoSeccion p{
+    font-family: "Gotham-Book";
+    text-align: justify;
+    font-size: 2vh;
+  }
+}
+
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+  .div-principalVidaEstudiantil{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: white;
+  }
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+  .div-principalVidaEstudiantil{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: white;
+  }
+}
+
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:100px) and (max-width: 420px){
+
+  .div-principalVidaEstudiantil{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: white;
+  }
+
+  .div-seccionVidaEstudiantil{
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+
+  .img-seccionVidaEstudiantil{
+    width:100%;
+    height: 100%;
+  }
+
+  .div-textoSeccion{
+    width: 100%;
+    height: 100%;
+    padding: 5%;
+    color: white;
+  }
+
+}

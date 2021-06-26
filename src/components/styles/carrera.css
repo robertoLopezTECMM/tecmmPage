@@ -1,0 +1,267 @@
+
+
+.div-principal-carrera{
+  background-color: white;
+  width:1024px; /* or whatever width you want. */
+  max-width:1200px;/* or whatever width you want. */
+  height: auto;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.img-carrera-bannerTNM{
+  width: 100%;
+}
+
+.img-portadaCarrera{
+  width: 100%;
+}
+
+.div-Carrera{
+  width: 100%;
+  display:flex;
+}
+
+
+.div-infoCarrera{
+  width: 70%;
+  padding: 2%;
+  background-color: white;
+  text-align: left;
+}
+
+.perfilIngresoList{
+  list-style-type: decimal;
+  columns: 1;
+  padding:1%;
+  margin:5%;
+}
+
+.perfilIngresoList li{
+
+  padding:1%;
+  text-align: justify;
+}
+
+.perfilEgresoList{
+  list-style-type: decimal;
+  columns: 2;
+  padding:1%;
+  margin:5%;
+}
+
+.perfilEgresoList li{
+
+  padding:5%;
+  text-align: justify;
+}
+
+.h2-objetivo{
+  text-align: left;
+  font-family: 'Gotham-Ultra';
+}
+
+.p-objetivo{
+  text-align: justify;
+  font-family: 'Gotham-Book'
+}
+
+.div-botonesCarrera{
+  width: 30%;
+  background-color: white;
+  padding: 0.5%;
+}
+
+.div-botonesCarrera button{
+  width:100%;
+  height: 10vh;
+  background-color: #2DA19A;
+  color: white;
+  font-family: 'Gotham-Ultra';
+  font-size: 25px;
+  cursor: pointer;
+  border: 1px white solid;
+}
+
+
+.div-oferatadaEnLosCampus{
+  background-color: red;
+}
+
+.div-oferatadaEnLosCampus h2{
+  font-family: 'Gotham-Ultra';
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
+
+.div-oferatadaEnLosCampus p{
+  font-family: 'Gotham-Book';
+  color: white;
+  font-size: 1.3em;
+}
+
+
+@media(min-width:5000px){
+
+  .div-principal-carrera{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+  }
+
+  .div-infoCarrera ul{
+    list-style-type: decimal;
+    columns: 2;
+    font-size: 5em;
+    padding:1%;
+    margin:5%;
+  }
+
+  .div-infoCarrera ul p{
+    font-family: 'Gotham-Book'
+  }
+
+  .div-infoCarrera li{
+    padding:5%;
+  }
+
+  .div-botonesCarrera button{
+    width:100%;
+    height: 15vh;
+    background-color: #2DA19A;
+    color: white;
+    font-family: 'Gotham-Ultra';
+    font-size: 7em;
+    cursor: pointer;
+    border: 1px white solid;
+  }
+
+  .h2-objetivo{
+    text-align: left;
+    font-family: 'Gotham-Ultra';
+    font-size: 6em;
+  }
+
+  .p-objetivo{
+    text-align: justify;
+    font-family: 'Gotham-Book';
+    font-size:4em;
+  }
+
+  .div-oferatadaEnLosCampus h2{
+    font-family: 'Gotham-Ultra';
+    color: white;
+    font-size: 7em;
+    text-align: center;
+  }
+
+  .div-oferatadaEnLosCampus p{
+    font-family: 'Gotham-Book';
+    color: white;
+    font-size: 4em;
+  }
+
+  .p-campus{
+    font-size: 2vh;
+  }
+
+
+}
+
+@media(min-width: 2500px){
+  .div-principal-carrera{
+    background-color: white;
+    width:1024px; /* or whatever width you want. */
+    max-width:1200px;/* or whatever width you want. */
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media(max-width:770px){
+
+  .div-principal-carrera{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .div-Carrera{
+    width: 100%;
+    display:block;
+  }
+
+  .div-infoCarrera{
+    width: 100%;
+    padding: 2%;
+    background-color: white;
+    text-align: left;
+  }
+
+  .div-botonesCarrera{
+    width: 100%;
+    background-color: transparent;
+    padding: 0%;
+    display: flex;
+  }
+
+  .div-botonesCarrera button{
+    width:18.8vh;
+    height: 8vh;
+    background-color: #2DA19A;
+    color: white;
+    font-family: 'Gotham-Ultra';
+    font-size: 2vh;
+    cursor: pointer;
+    border: 1px white solid;
+  }
+}
+
+@media(max-width:420px){
+
+  .div-principal-carrera{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .div-Carrera{
+    width: 100%;
+    display:block;
+  }
+
+  .div-infoCarrera{
+    width: 100%;
+    padding: 2%;
+    background-color: white;
+    text-align: left;
+  }
+
+
+
+  .div-botonesCarrera{
+    width: 100%;
+    background-color: transparent;
+    padding: 0%;
+    display: grid;
+    grid-template-columns: auto auto;
+    top:0%;
+  }
+
+  .div-botonesCarrera button{
+    width:100%;
+    height: 8vh;
+    background-color: #2DA19A;
+    color: white;
+    font-family: 'Gotham-Ultra';
+    font-size: 2vh;
+    cursor: pointer;
+    border: 1px white solid;
+  }
+}

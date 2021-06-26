@@ -1,0 +1,178 @@
+
+.div-principalQuienesSomos{
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  background-color: white;
+  background-image: url('../images/Fondo-01.jpg');
+  background-position:100% 50%;
+  background-repeat: no-repeat;
+  background-size:contain;
+}
+
+.div-seccionQuienesSomos{
+  width: 100%;
+  height: 100%;
+  display: flex;
+
+}
+
+#verde{
+  background-color: #2DA19A;
+}
+
+#morado{
+  background-color: #6D356C;
+}
+
+.img-seccionQuienesSomos{
+  width:50%;
+  height: 100%;
+}
+
+.div-textoSeccionQuienesSomos{
+  width: 50%;
+  height: 30%;
+  padding: 0.5%;
+  color: white;
+  background-color: ;
+}
+
+.div-textoSeccionQuienesSomos h1{
+  font-family: "Gotham-Ultra"
+}
+
+
+.div-textoSeccionQuienesSomos p{
+  font-family: "Gotham-Book";
+  text-align: justify;
+
+}
+
+#morado button{
+  width: 50%;
+  height: 50px;
+  background-color: transparent;
+  border: solid 3px #2DA19A;
+  border-radius: 10px;
+  color:white;
+  font-family: "Gotham-Ultra";
+  cursor:pointer;
+}
+
+#morado button:hover{
+  background-color: #2DA19A;
+}
+
+#verde button{
+  width: 50%;
+  height: 50px;
+  background-color: transparent;
+  border: solid 3px #6D356C;
+  border-radius: 10px;
+  color:white;
+  font-family: "Gotham-Ultra";
+  cursor:pointer;
+}
+
+#verde button:hover{
+  background-color: #6D356C;
+}
+
+
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+  .div-textoSeccionQuienesSomos h1{
+    font-family: "Gotham-Ultra";
+    font-size: 3vh!important;
+  }
+
+  .div-textoSeccionQuienesSomos p{
+    font-family: "Gotham-Book";
+    text-align: justify;
+    font-size: 2vh!important;
+  }
+}
+
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+  .div-principalQuienesSomos{
+    width:100%;
+    margin-right: 0%;
+    margin-left: 0%;
+  }
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+  .div-principalQuienesSomos{
+    width:100%;
+    margin-right: 0%;
+    margin-left: 0%;
+  }
+}
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:100px) and (max-width: 420px){
+
+  .div-principalQuienesSomos{
+    width: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+    background-color: white;
+    background-image: url('../images/Fondo-01.jpg');
+    background-position:100% 50%;
+    background-repeat: no-repeat;
+    background-size:contain;
+  }
+
+
+  .div-seccionQuienesSomos{
+    width: 100%;
+    height: 100%;
+    display: block;
+
+  }
+
+  #verde{
+    background-color: #2DA19A;
+  }
+
+  #morado{
+    background-color: #6D356C;
+  }
+
+
+  .img-seccionQuienesSomos{
+    width:100%;
+    height: 100%;
+    border: solid grey 3px;
+  }
+
+  .div-textoSeccionQuienesSomos{
+    width: 100%;
+    height: 30%;
+    padding: 0.5%;
+    color: white;
+    background-color: ;
+  }
+
+  .div-textoSeccionQuienesSomos h1{
+    font-family: "Gotham-Ultra"
+  }
+
+
+  .div-textoSeccionQuienesSomos p{
+    font-family: "Gotham-Book";
+    text-align: justify;
+
+  }
+
+}

@@ -1,0 +1,430 @@
+
+.div-principalNoticia{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+  background-color: white;
+  background-position:100% 50%;
+  background-repeat: no-repeat;
+  background-size:contain;
+}
+
+.noticiaContainer{
+  width:100%;
+  background-color:;
+  display: flex;
+  margin-top: 20px;
+}
+
+.noticiaData{
+  width:65%;
+  background-color: ;
+}
+
+
+.titleContainer{
+  position: relative;
+}
+
+.h1-tituloNoticia{
+  position: ;
+  width: 80%;
+  margin-left: 10%;
+  bottom:-2%;
+  font-family: "Gotham";
+  text-align: left;
+  font-size: 3.3vh;
+  color: #6D356C;
+  text-transform: uppercase;
+  background-color:
+}
+
+.img-imagenPrincipal{
+  width: 60%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.div-imagenesExtra{
+  background-color: ;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  display: ;
+}
+
+.div-imagenesExtra img{
+  width: 200px;
+  height: 130px;
+  margin: 0.3%;
+  transition: transform .2s; /* Animation */
+  cursor:pointer;
+}
+
+
+
+
+.div-contenidoNoticia{
+  width: 80%;
+  background-color: ;
+  margin-right: 10%;
+  margin-left: 10%;
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
+.p-subtituloNoticia{
+  font-family: "Gotham-Book";
+  width:100%;
+  text-align: justify;
+}
+
+.h2-subtituloNoticia{
+  color: #2DA19A;
+  font-family: "Gotham";
+  text-align: justify;
+}
+
+
+.noticiaTimeline{
+  background-color: #c2c2c2;
+  width: 35%;
+  height: 800px;
+  overflow-y: scroll;
+
+}
+
+.noticiaTimeline h1{
+  font-family: "Gotham";
+  color:#6D356C;
+}
+
+.timelineItem{
+  width:90%;
+  height: 100px;
+  background-color:white;
+  margin:5%;
+  border-bottom: 1px solid #6D356C;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+
+.timelineItem:hover{
+
+}
+
+.timelineItem h1{
+  color:#2DA19A;
+  font-size:2vh;
+  padding: 2px;
+  text-align: justify;
+  font-family: "Gotham";
+  font-style: italic;
+  cursor: pointer;
+}
+
+.timelineItem a{
+  font-family: "Gotham";
+  color:#2DA19A;
+  cursor: pointer;
+  font-style: italic;
+}
+
+.imagenExtraCarousel{
+  width: 100px;
+  max-width: 100%;
+}
+
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+
+}
+
+
+/*RESOLUCION PARA MACBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+  .div-principalNoticia{
+    width: 100%;
+    margin-left: 0%;
+    margin-right:0%;
+  }
+
+  .h1-tituloNoticia{
+    position: absolute;
+    width: 100%;
+    margin-left: 0%;
+    bottom:-3%;
+    font-family: "Gotham";
+    text-align: left;
+    font-size: 2vh;
+    color: white;
+
+  }
+  .img-imagenPrincipal{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+
+  }
+
+  .div-contenidoNoticia{
+    width: 100%!important;
+    background-color: ;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-top:2%;
+    padding-bottom:2%;
+  }
+
+  .p-subtituloNoticia{
+    font-family: "Gotham-Book";
+    width:100%;
+    text-align: justify;
+  }
+
+  .h2-subtituloNoticia{
+    color: #2DA19A;
+    font-family: "Gotham";
+  }
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+  .div-principalNoticia{
+    width: 100%;
+    margin-left: 0%;
+    margin-right:0%;
+  }
+
+  .h1-tituloNoticia{
+    position: absolute;
+    width: 100%;
+    margin-left: 0%;
+    bottom:-3%;
+    font-family: "Gotham";
+    text-align: left;
+    font-size: 2vh;
+    color: white;
+
+  }
+
+  .img-imagenPrincipal{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+  }
+
+  .div-contenidoNoticia{
+    width: 100%!important;
+    background-color: ;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding-top:2%;
+    padding-bottom:2%;
+  }
+
+  .p-subtituloNoticia{
+    font-family: "Gotham-Book";
+    width:100%;
+    text-align: justify;
+  }
+
+  .h2-subtituloNoticia{
+    color: #2DA19A;
+    font-family: "Gotham";
+  }
+
+}
+
+
+/*RESOLUCION PARA CELULARES*/
+@media(max-width: 420px){
+  .div-principalNoticia{
+    width: 100%;
+    margin-left: 0%;
+    margin-right:0%;
+    background-color: white;
+    background-color: white;
+    background-image: url('../images/Fondo-01.jpg');
+    background-position:100% 50%;
+    background-repeat: no-repeat;
+    background-size:contain;
+  }
+
+
+
+  .img-imagenPrincipal{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+
+  .div-imagenesExtra{
+    background-color: ;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    display: ;
+  }
+
+  .div-imagenesExtra img{
+    width: 130px;
+    height: 80px;
+    margin: 0.3%;
+    transition: transform .2s; /* Animation */
+  }
+
+
+
+  .div-contenidoNoticia{
+    width: 100%;
+    background-color: ;
+    margin-right: 0%;
+    margin-left: 0%;
+    padding: 5%!important;
+    padding-top:0%;
+    padding-bottom:0%;
+  }
+
+  .noticiaContainer{
+    display:block;
+  }
+
+
+  .noticiaData{
+    width:100%;
+    background-color: ;
+  }
+
+
+  .titleContainer{
+    position: relative;
+  }
+
+  .h1-tituloNoticia{
+    position: ;
+    width: 80%;
+    margin-left: 10%;
+    bottom:-2%;
+    font-family: "Gotham";
+    text-align: left;
+    font-size: 3.3vh;
+    color: #6D356C;
+    text-transform: uppercase;
+    background-color:
+  }
+
+  .img-imagenPrincipal{
+    width: 60%;
+    height: 300px;
+    object-fit: cover;
+  }
+
+  .div-imagenesExtra{
+    background-color: ;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: ;
+  }
+
+  .div-imagenesExtra img{
+    width: 200px;
+    height: 130px;
+    margin: 0.3%;
+    transition: transform .2s; /* Animation */
+    cursor:pointer;
+  }
+
+
+
+
+  .div-contenidoNoticia{
+    width: 80%;
+    background-color: ;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top:2%;
+    padding-bottom:2%;
+  }
+
+  .p-subtituloNoticia{
+    font-family: "Gotham-Book";
+    width:100%;
+    text-align: justify;
+  }
+
+  .h2-subtituloNoticia{
+    color: #2DA19A;
+    font-family: "Gotham";
+    text-align: justify;
+  }
+
+
+  .noticiaTimeline{
+    background-color: #c2c2c2;
+    width: 100%;
+    height: auto;
+    display:none;
+
+  }
+
+  .noticias{
+    width: 100%;
+    display: flex;
+    background-color: red;
+    overflow-x: scroll;
+  }
+
+  .noticiaTimeline h1{
+    font-family: "Gotham";
+    color:#6D356C;
+  }
+
+  .timelineItem{
+    width:30%;
+    height: 90px;
+    background-color:white;
+    margin:10px;
+    border-bottom: 1px solid #6D356C;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
+
+  .timelineItem h1{
+    color:#2DA19A;
+    font-size:1vh;
+    padding: 2px;
+    width: 100%;
+    text-align: justify;
+    font-family: "Gotham";
+    font-style: italic;
+    cursor: pointer;
+  }
+
+  .timelineItem a{
+    width: 100%;
+    font-family: "Gotham";
+    color:#2DA19A;
+    cursor: pointer;
+    font-style: italic;
+  }
+
+  .imagenExtraCarousel{
+    width: 100px;
+    max-width: 100%;
+  }
+
+}

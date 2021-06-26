@@ -1,0 +1,131 @@
+.div-principalDenunciaOmisiones{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.div-formularioDenunciaOmisiones{
+  padding: 1%;
+  background-color: white;
+
+}
+
+.divLeyendaFormato{
+  border-radius: 5px;
+  background-color: rgb(45, 161, 154, 0.7);
+  padding:2%;
+  margin-bottom:2%;
+  font-family: "Gotham";
+}
+
+
+.divLeyendaFormato h1{
+  font-size: 3vh;
+  font-family: "Gotham";
+  color:#6D356C;
+}
+
+.ui.form .field>label{
+  color: #6D356C;
+}
+
+.h1-tituloForms{
+  font-family: "Gotham-Ultra";
+  color: #6D356C;
+}
+
+#form-demandante{
+  font-family: "Gotham-Book";
+  border-radius: 5px;
+  background-color: rgb(45, 161, 154, 0.7);
+  padding:2%;
+  margin-bottom:2%;
+
+}
+
+#form-demandante p{
+  font-family: "Gotham";
+  color: white;
+  text-align: left;
+  -webkit-text-stroke-width: 0.3px;
+  -webkit-text-stroke-color: white;
+}
+
+
+#form-demandado{
+  font-family: "Gotham-Book";
+  border-radius: 5px;
+  background-color: rgb(45, 161, 154, 0.7);
+  padding:2%;
+  margin-bottom:2%;
+}
+
+#form-hechos{
+  font-family: "Gotham-Book";
+  border-radius: 5px;
+  background-color: rgb(45, 161, 154, 0.7);
+  padding:2%;
+  margin-bottom:2%;
+}
+
+#form-testigo{
+  font-family: "Gotham-Book";
+  border-radius: 5px;
+  background-color: rgb(45, 161, 154, 0.7);
+  padding:2%;
+  margin-bottom:2%;
+}
+
+#checkbox-label{
+  font-family: "Gotham"!important;
+}
+
+.button-enviarDenuncia{
+  background-color: white;
+  width: 150px;
+  height: 55px;
+  color:#2DA19A;
+  font-family: "Gotham";
+  outline: none;
+  cursor: pointer;
+  border: 2px #2DA19A solid;
+  border-radius: 10px;
+
+}
+
+.button-enviarDenuncia:hover{
+  background-color: #2DA19A;
+  color:white;
+}
+
+.button-cancelarDenuncia{
+  background-color: white;
+  width: 150px;
+  height: 55px;
+  color:#9e2b2b;
+  font-family: "Gotham";
+  outline: none;
+  cursor: pointer;
+  border: 2px #9e2b2b solid;
+  border-radius: 10px;
+  margin-left: 5%;
+}
+
+.button-cancelarDenuncia:hover{
+  background-color: #9e2b2b;
+  color:white;
+}
+
+@media(min-width:100px) and (max-width: 420px){
+  .div-principalDenunciaOmisiones{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .h1-tituloForms{
+    font-family: "Gotham-Ultra";
+    color: #6D356C;
+    font-size: 3vh;
+  }
+}

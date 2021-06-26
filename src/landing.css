@@ -1,0 +1,171 @@
+
+@font-face {
+  font-family: 'Gotham';
+
+  src:
+
+      url(./fonts/Gotham-Bold.otf);
+}
+
+@font-face {
+  font-family: 'Gotham-Ultra';
+  src:
+  url(./fonts/Gotham-Ultra.otf);
+}
+
+@font-face {
+  font-family: 'Gotham-Book';
+  src:
+  url(./fonts/GothamBook.ttf);
+}
+
+.div-principalLanding{
+  background-color: white;
+  width:1024px; /* or whatever width you want. */
+  max-width:1200px;/* or whatever width you want. */
+  height: auto;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.redes-lateral{
+  width:4%;
+  height: 26%;
+  background-color: #2DA19A;
+  position:fixed;
+  z-index: 30;
+  margin-top: 0vh;
+  /*margin-left:79%;*/
+  right: 0%;
+  border-radius: 3px;
+}
+
+.redes-lateral img{
+  width: 7vh;
+  height: 6vh;
+  padding: .5vh;
+}
+
+
+.divModalAvisoVacaciones img{
+  width: 78%;
+  margin-top: 0%;
+}
+
+.divModalAvisoVacaciones h1{
+  color:#2DA19A;
+  font-family: "Gotham";
+  padding-top: 50px;
+}
+
+.divModalAvisoVacaciones p{
+  color:#6D356C;
+  font-family: "Gotham";
+  font-size: 3vh;
+  padding-bottom: 30px;
+}
+
+.documentsContainer{
+  background-color: ;
+  display: flex;
+}
+
+.documentsContainer h1{
+  font-size: 3vh;
+  text-align: justify;
+  padding: 50px;
+}
+
+.documentsContainer img{
+  width: 100px;
+  background-color: ;
+  margin-left: 30px;
+}
+
+@media(min-width:2500px) and (max-width:5000px){
+
+
+}
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+
+  .div-principalLanding{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .redes-lateral{
+    display: none;
+  }
+
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:425px) and (max-width: 800px){
+  .div-principalLanding{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .redes-lateral{
+    display: none;
+  }
+}
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:0px) and (max-width: 420px){
+  .div-principalLanding{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .redes-lateral{
+      display: none;
+  }
+
+  .divModalAvisoVacaciones img{
+    width: 100%;
+    margin-top: 0%;
+  }
+
+  .divModalAvisoVacaciones h1{
+    color:#2DA19A;
+    font-family: "Gotham";
+    padding-top: 50px;
+    font-size: 2.5vh;
+  }
+
+  .divModalAvisoVacaciones p{
+    color:#6D356C;
+    font-family: "Gotham";
+    font-size: 2vh;
+    padding-bottom: 30px;
+  }
+
+  .documentsContainer{
+    background-color: ;
+    display: flex;
+  }
+
+  .documentsContainer h1{
+    font-size: 1.5vh;
+    text-align: justify;
+    padding: 20px;
+  }
+
+  .documentsContainer img{
+    width: 50px;
+    background-color: ;
+    margin-left: 0px;
+  }
+}

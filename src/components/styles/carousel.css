@@ -1,0 +1,242 @@
+
+/*RESOLUCION PARA LAPTOP*/
+
+  .div-principal-carouselComponent{
+    width: 100%;
+    height: 100%;
+    background-color: #d6d6d6;
+    display: flex;
+  }
+
+  .div-carousel-carouselComponent{
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+
+
+  .div-botonesCarousel{
+    background-color:red !important;
+    position: absolute;
+    top:0%;
+    right: 0%;
+    width: 50%;
+
+  }
+
+
+
+  .btn1Oferta {
+    position: absolute;
+    width:30%;
+    height: 60px;
+    background-color: #2DA19A;
+    right:62%;
+
+    color: white;
+    font-size: 15px;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 30;
+    text-align: center;
+    margin:0%;
+  }
+
+  .btn1Oferta:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
+
+  .btn2Campus {
+    position: absolute;
+    width:30%;
+    height: 60px;
+    right:31%;
+    background-color: #2DA19A;
+    color: white;
+    font-size: 15px;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 30;
+    text-align: center;
+    margin:0%;
+  }
+
+  .btn2Campus:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
+
+  .btn3Escolares {
+    position: absolute;
+    width:30%;
+    height: 60px;
+    background-color: #2DA19A;
+    right:0%;
+    color: white;
+    font-size: 15px;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 30;
+    text-align: center;
+    margin: 0%;
+  }
+
+  .btn3Escolares:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
+
+
+/*RESOLUCION PARA LAPTOP*/
+@media(min-width:1200px) and (max-width:1600px){
+
+}
+
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+
+
+}
+
+/*RESOLUCION PARA MACBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+  .btn1Oferta {
+    height: 5vh;
+    font-size: 1.5vh;
+  }
+
+  .btn2Campus {
+    height: 5vh;
+    font-size: 1vh;
+  }
+
+  .btn3Escolares {
+    height: 5vh;
+    font-size: 1.5vh;
+  }
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+
+  .btn1Oferta {
+    height: 5vh;
+    font-size: 1.5vh;
+  }
+
+  .btn2Campus {
+    height: 5vh;
+    font-size: 1vh;
+  }
+
+  .btn3Escolares {
+    height: 5vh;
+    font-size: 1.5vh;
+  }
+}
+
+@media(min-width:00px) and (max-width: 420px){
+
+  .div-principal-carouselComponent{
+    width: 100%;
+    height: 100%;
+    background-color: #d6d6d6;
+    display: flex;
+
+  }
+
+  .div-carousel-carouselComponent{
+    width: 100%;
+    height: 100%;
+    position:relative;
+    display: block;
+    background-color:white;
+  }
+
+
+  .div-botonesCarousel{
+    background-color:white   !important;
+    position: relative;
+    margin-top:1%;
+    right: 0%;
+    width: 100%;
+    display: block;
+  }
+
+
+  .btn1Oferta {
+    position: absolute;
+    width:32%;
+    height: 8vh;
+    background-color: #6D356C;
+    left:0%;
+
+    color: white;
+    font-size: 1.5vh;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index:4;
+    text-align: center;
+    margin:0%;
+  }
+
+  .btn1Oferta:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
+
+  .btn2Campus {
+    position: relative;
+    width:32%;
+    height: 8vh;
+    left: 0%;
+
+    background-color: #6D356C;
+    color: white;
+    font-size: 1.5vh;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 4;
+    text-align: center;
+    margin:0%;
+  }
+
+  .btn2Campus:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
+
+  .btn3Escolares {
+    position: absolute;
+    width:32%;
+    height: 8vh;
+    background-color: #6D356C;
+    right:0%;
+
+    color: white;
+    font-size: 1.5vh;
+    font-family: 'Gotham-Ultra';
+    border: none;
+    cursor: pointer;
+    z-index: 4;
+    text-align: center;
+    margin: 0%;
+  }
+
+  .btn3Escolares:hover{
+    background-color: #2DA19A;
+    opacity: 0.8;
+  }
+
+}

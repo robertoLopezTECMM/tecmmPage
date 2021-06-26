@@ -1,0 +1,147 @@
+.div-principal-ofertaAcademica{
+  background-color: white;
+  width:1024px; /* or whatever width you want. */
+  max-width:1200px;/* or whatever width you want. */
+  height: auto;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.img-ofertaAcademica-portada{
+  width:100%;
+  margin-bottom: -0.5%;
+}
+
+.div-maestrias{
+  background-color: grey;
+}
+.div-carreras{
+  background-color: white;
+  display: grid;
+  grid-template-columns: 33.4% 33.4% 33.4%;
+
+}
+
+.ui.cards{
+  background-color: white;
+  padding-left: 0%!important;
+  padding-right: 0%!important;
+}
+
+.div-carreraItem{
+  max-width: 100%;
+  max-height: 100%;
+  margin: 1%;
+
+
+}
+
+.div-carreraItem img{
+  width: 100%;
+  height: 100%;
+
+}
+
+.div-carreraItem:hover{
+  opacity: 0.7;
+}
+/*.div-cardsCarreras{
+  width:100%;
+  height: 100%;
+  background-color: grey;
+  display: flex;
+}
+
+.div-cardsIngenierias{
+  width: 75%;
+  height: 100%;
+  background-color: ;
+}
+
+
+
+
+
+
+
+.div-cardsMaestrias{
+  width:25%;
+  height: 100%;
+  background-color: grey;
+  margin-top: 1%;
+
+}
+
+.div-maestrias{
+  width:100%;
+  height: 30%;
+  display:inline-block;
+
+
+}
+
+.grid-maestrias-item{
+  height: 100%;
+  height: 100%;
+  padding: 1%;
+
+}
+
+
+.img-MaestriaItem{
+  width: 100%;
+  height: 100%;
+  border-radius: 0%;
+
+}
+
+.img-MaestriaItem:hover{
+  opacity: 0.7;
+}*/
+
+
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+
+}
+
+
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+  .div-principal-ofertaAcademica{
+    width:100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+  .div-principal-ofertaAcademica{
+    width:100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+}
+
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:100px) and (max-width: 420px){
+
+  .div-principal-ofertaAcademica{
+    width:100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: ;
+  }
+
+}

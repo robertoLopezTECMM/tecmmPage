@@ -1,0 +1,170 @@
+
+.div-principalRectoria{
+  background-color: white;
+  width:1024px; /* or whatever width you want. */
+  max-width:1200px;/* or whatever width you want. */
+  height: auto;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div-contenedorDirectores{
+  background-color: white;
+  text-align: center;
+}
+
+.div-director{
+  width: 35%;
+  height: auto;
+  background-color:red;
+  margin:0px auto;
+}
+
+#correoDirector{
+  font-size: 15px;
+  font-family: "Gotham-Book"
+}
+
+#card-director{
+  width: 320px;
+  margin-left: 4%;
+}
+
+.ui.cards{
+  background-color: ;
+  margin:0%;
+  padding-left: 3%;
+}
+
+.ui.link.cards{
+  padding-left: 1%!important;
+}
+
+#nombre{
+  font-family: "Gotham-Ultra";
+  color:#6D356C;
+}
+
+#puesto{
+  font-family: "Gotham";
+}
+
+#correo{
+  font-size: 1.6vh;
+  font-family: "Gotham-Book"
+}
+
+#contacto{
+  background-color: #2DA19A;
+  color:white;
+  font-family: "Gotham";
+  font-size: 1.4vh;
+}
+
+#directories{
+  padding-left: 2.5%;
+}
+
+#card-rectoriaItem{
+  width: 320px;
+}
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+
+
+  #card-rectoriaItem{
+    width: 320px;
+
+  }
+
+  #nombre{
+    font-family: "Gotham-Ultra";
+    color:#6D356C;
+  }
+
+  #puesto{
+    font-family: "Gotham";
+  }
+
+  #correo{
+    font-size: 15px;
+    font-family: "Gotham-Book"
+  }
+
+  #contacto{
+    background-color: #2DA19A;
+    color:white;
+    font-family: "Gotham";
+    font-size: 15px;
+  }
+
+  #directories{
+    padding-left: 2.5%;
+  }
+}
+
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+  .div-contenedorDirectores{
+    background-color: white;
+    text-align: center;
+  }
+
+  .div-director{
+    width: 35%;
+    height: auto;
+    background-color: ;
+    margin:0px auto;
+  }
+
+  #card-director{
+    width: 450px;
+    margin-left: 3%;
+  }
+
+
+  .ui.cards{
+    background-color: ;
+    margin:0%;
+    padding-left: 3%;
+  }
+
+  #card-rectoriaItem{
+    width: 420px;
+  }
+}
+
+
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:100px) and (max-width: 420px){
+  .div-principalRectoria{
+    width:100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .div-director{
+    width: 100%;
+    height: auto;
+    background-color:red;
+    margin:0px auto;
+  }
+
+
+    #directories{
+      padding-left: 35%;
+    }
+
+  #card-director{
+    width: 390px;
+    margin-left: 2%;
+  }
+
+  #card-rectoriaItem{
+    width: 390px;
+  }
+}

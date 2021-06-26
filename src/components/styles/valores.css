@@ -1,0 +1,177 @@
+
+.div-principalValores{
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+
+.img-bannerTNM-valores{
+  width: 100%;
+}
+
+
+.div-contenido-valores{
+  width:100%;
+  display: flex;
+  background-color: white;
+}
+
+.div-informacion-contenido-valores{
+  width:60%;
+  height: 100%;
+}
+
+
+.div-informacion-contenido-valores h1{
+  text-align: left;
+  font-family: 'Gotham';
+  margin-left: 2%;
+  color: #2DA19A;
+}
+
+.div-informacion-contenido-valores h4{
+  text-align: left;
+  margin-top: -4%;
+  margin-left: 2%;
+  color:#2DA19A;
+}
+
+.div-informacion-contenido-valores p{
+  text-align: justify;
+  font-family: 'Gotham-Book';
+  padding: 2%;
+}
+
+.imagenes-informacion-contenido-valores{
+  width:40%;
+  height: 100%;
+
+}
+
+.imagenes-informacion-contenido-valores img{
+  width:100%;
+}
+
+@media(min-width:5000px){
+  .div-informacion-contenido-valores h1{
+    text-align: left;
+    font-family: 'Gotham';
+    font-size: 2.5vh;
+    margin-left: 2%;
+  }
+
+  .div-principalValores{
+    width: 60%;
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+
+  .div-informacion-contenido-valores h4{
+    text-align: left;
+    margin-top: -4%;
+    margin-left: 2%;
+    font-size: 2vh;
+
+  }
+
+  .div-informacion-contenido-valores p{
+    text-align: justify;
+    font-family: 'Gotham-Book';
+    padding: 2%;
+    font-size: 2vh;
+
+  }
+}
+
+@media(min-width: 2500px){
+  .div-principalValores{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  .div-informacion-contenido-valores p{
+    text-align: justify;
+    font-family: 'Gotham-Book';
+    padding: 2%;
+    font-size: 1.5vh;
+
+  }
+
+  .div-informacion-contenido-valores h4{
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: 1.5vh;
+
+  }
+}
+
+@media(max-width:1700px){
+  .div-informacion-contenido-valores h4{
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-size: 2vh;
+
+  }
+
+
+}
+
+@media(max-width:420px){
+  .div-principalValores{
+    width: 100%;
+    margin-right: 0%;
+    margin-left: 0%;
+  }
+
+
+  .img-bannerTNM-valores{
+    width: 100%;
+  }
+
+
+  .div-contenido-valores{
+    width:100%;
+    display: block;
+    background-color: white;
+    padding-top: 2%;
+  }
+
+
+  .div-contenido-valores h1{
+    text-align: left;
+    font-family: 'Gotham';
+    margin-left: 10%;
+    color: #2DA19A;
+  }
+
+  .div-contenido-valores h4{
+    text-align: left;
+    margin-top: -4%;
+    margin-left: 2%;
+    color: #2DA19A;
+  }
+
+  .div-contenido-valores p{
+    text-align: justify;
+    font-family: 'Gotham-Book';
+
+    padding: 2%;
+  }
+
+
+
+  .div-contenido-valores img{
+
+    width:40%;
+    height: 60%;
+
+
+  }
+
+
+
+}

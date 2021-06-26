@@ -1,0 +1,217 @@
+
+
+
+.div-principal-juntasDeGobierno{
+  width: 80%;
+  min-height: 800px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+  background-image: url('../images/Fondo-01.jpg');
+  background-position:100% 50%;
+  background-repeat: no-repeat;
+  background-size:contain;
+}
+
+.img-juntasDeGobierno-bannerTNM{
+  width: 100%;
+}
+
+.div-oficios-juntasDeGobierno h1{
+  font-family: "Gotham-Ultra";
+  color: #6D356C;
+}
+
+.div-oficios-juntasDeGobierno h2{
+  text-align: justify;
+  color:#2DA19A;
+  font-family: "Gotham";
+  margin-bottom: 15px;
+  font-size: 2.5vh;
+}
+
+.div-oficios-juntasDeGobierno p{
+  text-align: justify;
+  font-family: "Gotham-Book"
+}
+
+.div-ordenDia{
+  background-color: ;
+  height: 800px;
+  padding:5px;
+  overflow-y: scroll;
+  color:black!important;
+}
+
+.div-ordenDia ol{
+  text-align: justify;
+  font-family: "Gotham-Book";
+}
+
+.div-ordenDia li{
+  margin:5px;
+  font-size: 2vh;
+  cursor: pointer;
+  color:black!important;
+}
+
+
+
+.div-ordenDia ul{
+  color:;
+  font-family: "Gotham-Book";
+  
+}
+
+
+
+.nav-link.active{
+
+  background-color: #2DA19A !important;
+}
+
+.div-lista-juntasDeGobierno{
+  background-color: ;
+  height: 800px;
+  overflow: scroll;
+}
+
+.div-lista-juntasDeGobierno ul{
+  list-style: none;
+  
+  padding: 0%;
+}
+
+
+
+.div-lista-juntasDeGobierno li{
+  font-size: 3vh;
+  width:70%;
+  font-family: "Gotham-Book";
+  margin: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding:2%;
+  border-radius: 10px;
+  border: solid 2px #6D356C;
+  background-color: #2DA19A;
+  color: black;
+  text-decoration: none;
+
+}
+
+.div-lista-juntasDeGobierno a{
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+
+@media(min-width:100px) and (max-width: 420px){
+  .div-oficios-juntasDeGobierno h2{
+    text-align: justify;
+    color:#2DA19A;
+    font-family: "Gotham";
+    line-height:20px ;
+    font-size: 2vh;
+    margin-bottom:40px;
+  }
+
+  .div-oficios-juntasDeGobierno p{
+    text-align: justify;
+    font-family: "Gotham-Book";
+    font-size: 12px;
+  }
+
+  .div-ordenDia li{
+    margin:5px;
+    font-size: 15px;
+    cursor: pointer;
+    color:black!important;
+  }
+
+  .div-ordenDia a{
+    display: block;
+  }
+
+
+  .div-ordenDia ol{
+    text-align: justify;
+    font-family: "Gotham-Book";
+  }
+  
+  .div-ordenDia li{
+    margin:5px;
+    font-size: 2vh;
+    cursor: pointer;
+    color:black!important;
+  }
+
+  .div-principal-juntasDeGobierno{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .div-lista-juntasDeGobierno li{
+    font-size: 2vh;
+    width:70%;
+    font-family: "Gotham-Book";
+    margin: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding:2%;
+    border-radius: 10px;
+    border: solid 2px #6D356C;
+    background-color: #2DA19A;
+    color: black;
+    text-decoration: none;
+  }
+
+}
+
+@media(min-width:1000px) and (max-width:2400px){
+
+
+  .div-oficios-juntasDeGobierno h2{
+    text-align: justify;
+    color:#2DA19A;
+    font-family: "Gotham";
+    margin-bottom:40px;
+    font-size: 2vh;
+  }
+
+  .div-oficios-juntasDeGobierno p{
+    text-align: justify;
+    font-family: "Gotham-Book";
+    font-size: 15px;
+  }
+
+  .div-ordenDia li{
+    margin:5px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+}
+
+@media(min-width:2500px) and (max-width:5000px){
+  .div-oficios-juntasDeGobierno h2{
+    text-align: justify;
+    color:#2DA19A;
+    font-family: "Gotham";
+    line-height:20px ;
+    font-size: 2vh;
+    margin-bottom:40px;
+  }
+
+  .div-oficios-juntasDeGobierno p{
+    text-align: justify;
+    font-family: "Gotham-Book";
+    font-size: 12px;
+  }
+
+  .div-ordenDia li{
+    margin:5px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+}

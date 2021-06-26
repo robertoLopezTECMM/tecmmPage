@@ -1,0 +1,137 @@
+.div-principalGeneradorReferencias{
+  width:80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+}
+
+.div-principalGeneradorReferencias h1{
+  font-family: "Gotham-Ultra";
+  color:#5C5B5F;
+}
+
+.btn-typeUser{
+  width: 250px;
+  height: 100px;
+  background-color: #2DA19A;
+  color:white;
+  font-family: "Gotham-Ultra";
+  font-size: 30px;
+  outline: none;
+  border:none;
+  margin:5px;
+}
+
+.modalPass h1{
+  font-family: "Gotham";
+  font-size: 25px;
+
+}
+
+.modalPass input{
+  width: 100%;
+  border: 2px solid  #6D356C;
+  border-radius: 5px;
+  outline: none;
+  margin-top:10%;
+  margin-bottom: 10%;
+}
+
+
+.div-formsContainer{
+  background-color: ;
+  display: ;
+}
+
+.div-formsContainer p{
+  font-size: 20px;
+  font-family: "Gotham-Book";
+}
+
+.div-formAlumno{
+  width: 100%;
+  height: 350px;
+  background-color: ;
+  display: block;
+  margin: 0px;
+}
+
+.div-formAlumno input{
+  width: 60%;
+  height: 40px;
+  font-size: 25px;
+  font-family: "Gotham-Ultra";
+  color:#6D356C;
+  margin-left: 20%;
+  margin-top: 5px;
+  display: block;
+  border:1px solid #2DA19A;
+  border-radius: 5px;
+  outline: none;
+}
+
+.div-formAlumno button{
+  margin: 3%;
+  width: 150px;
+  height: 50px;
+  background-color: #2DA19A;
+  color:white;
+  font-family: "Gotham-Ultra";
+  font-size: 15px;
+  outline: none;
+  border:none;
+
+}
+
+.divAlumno{
+  width: 100%;
+  background-color: ;
+}
+
+.tableAlumno{
+  width: 100%!important;
+  margin-left: 0%;
+}
+
+.tableAlumno a{
+  cursor: pointer;
+}
+
+.tableAlumno th{
+  width: 20%;
+  background-color: #2DA19A;
+  color: white;
+  font-family: "Gotham";
+}
+
+.tableAlumno td {
+  text-align: center;
+  font-family: 'Gotham';
+  padding: 0px;
+
+}
+
+.tableAlumno tr:nth-child(even){
+  background-color: #f2f2f2
+}
+
+.passButtons button{
+  width:30%;
+  height: 30px;
+  margin:15px;
+  color:white;
+  border:none;
+  border-radius: 5px;
+  font-family: "Gotham";
+}
+
+
+#btnDescargar{
+  background-color: #2DA19A;
+
+}
+
+#btnCancelar{
+  background-color: #6D356C;
+
+}

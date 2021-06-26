@@ -1,0 +1,309 @@
+.ul-menu-festival{
+  display: flex;
+  position: absolute;
+  top:15%;
+  right: 6%;
+  z-index: 5;
+}
+
+.ul-menu-festival li{
+  font-family: 'Gotham';
+  font-size: 2vh;
+  margin: 0.8%;
+  margin-bottom: -0.5%;
+  list-style: none;
+  cursor: pointer;
+  color:#93176b;
+}
+
+.ul-menu-festival a{
+  color:#93176b;
+}
+
+.img-bannerFestival{
+  width: 100%;
+  height: auto;
+  top:0%;
+  position: absolute;
+}
+
+.img-actorFestival{
+  position: absolute;
+  top:20%;
+  right:0%;
+  height: 80%;
+}
+
+.img-letrasFestival{
+  height: 70%;
+  position: absolute;
+  top:25%;
+  z-index: 5;
+  left: 20%;
+}
+
+.img-pinataFestival{
+  height: 70%;
+  position: absolute;
+  top:25%;
+  z-index: 5;
+  left: 5%;
+}
+
+.h1-fechaFestival{
+  display: none;
+}
+
+.div-textoSede{
+
+  display: none;
+}
+
+#h1-antecedentes{
+  position: absolute;
+  top: 7%;
+  left:2%;
+  font-size: 8vh;
+}
+
+.p-antecedentes{
+  text-align: left;
+  background-color:;
+  width: 50%;
+  position: absolute;
+  left: 2%;
+  top:20%;
+  font-family: "Gotham";
+  color:white;
+  text-align: justify;
+}
+
+.div-collageAntecedentes{
+  position: absolute;
+  right: 0%;
+  width: 45%;
+  background-color: ;
+}
+
+#h1-seccion{
+  position: absolute;
+  top: 2%;
+  left:2%;
+  font-size: 8vh;
+  color:white;
+}
+
+.div-disciplinas{
+  display: flex;
+}
+
+.div-disciplinasItem{
+  font-family: "Gotham";
+  padding:1%;
+}
+
+.div-disciplinasItem h3{
+  font-family: "Gotham";
+}
+
+.div-disciplinasItem p{
+  font-family: "Gotham";
+  text-align: justify;
+}
+
+.div-paralaxLayer{
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
+}
+
+.div-collagesFestival{
+  width: 100%;
+  height: 100%;
+  background-color:;
+  margin-top:15%;
+  display: flex;
+}
+
+.div-sede{
+  background-color: ;
+  width: 35%;
+  display: block;
+}
+
+.div-subsedes{
+  background-color:;
+  width: 65%;
+  padding-left: 0%;
+}
+
+.div-collage{
+ margin:1.5%;
+}
+
+.div-collage h1{
+  text-align: left;
+  color:#93176b;
+}
+
+.div-organigrama{
+  width:30%;
+  height: 100%;
+  background-color: ;
+  margin-top: 10%;
+}
+
+.div-organigrama img{
+  width: 90%;
+  padding:2%;
+}
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5100px){
+
+  .ul-menu-festival{
+    display: flex;
+    position: absolute;
+    top:16%;
+    right: 6%;
+    z-index: 5;
+  }
+
+  .ul-menu-festival li{
+    font-size: 1.9vh;
+  }
+
+  .div-aviso h1{
+    font-size: 2vh;
+  }
+
+  .div-aviso p{
+    font-size: 1.5vh;
+  }
+
+  .div-aviso h2{
+    font-size: 2vh;
+  }
+
+  .img-aviso{
+
+  }
+}
+
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+  .ul-menu-festival li{
+    font-size: 1.80vh;
+  }
+
+}
+
+
+/*RESOLUCION PARA CELULARES*/
+@media(max-width:420px){
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+  .img-bannerFestival{
+    display: none;
+  }
+
+  .img-actorFestival{
+    display: none;
+  }
+
+  .img-letrasFestival{
+    max-height: 50%;
+    max-width: 100%;
+    top:2%;
+    left: 45%;
+  }
+
+  .img-pinataFestival{
+    max-height: 50%;
+    max-width: 100%;
+    top:2%;
+  }
+
+  .ul-menu-festival{
+    display: none;
+
+  }
+
+
+
+  .h1-fechaFestival{
+    display: block;
+    font-size: 2vh;
+    z-index: 10;
+    color:#93176b;
+    font-family: "Gotham-Ultra";
+    margin-top: 40%;
+  }
+
+
+  .div-textoSede{
+    width: 100%;
+    height:80px;
+    position: absolute;
+    background-color:;
+    top:65%;
+    display: flex;
+
+  }
+
+  .div-textoSede img{
+    max-width: 60px;
+    position: absolute;
+    left: 2%;
+  }
+
+  .div-textoSede h1{
+    position: absolute;
+    color:#93176b;
+    font-size: 1.2vh;
+    font-family: "Gotham-Ultra";
+    left: 18%;
+    top:-20%;
+  }
+
+  .div-textoSede p{
+    position: absolute;
+    color:#93176b;
+    font-size: 0.9vh;
+    font-family: "Gotham";
+    left: 18%;
+    top:35%;
+  }
+
+  #h1-antecedentes{
+    position: absolute;
+    top: 2%;
+    left:2%;
+    font-size: 6vh;
+  }
+
+  .div-collageAntecedentes{
+    position: absolute;
+    left: 10%;
+    top: 60%;
+    width: 45%;
+    background-color:;
+  }
+
+
+
+  .p-antecedentes{
+    text-align: left;
+    background-color:rgb(147, 23, 107, 0.6)  ;
+    width: 95%;
+    position: absolute;
+    left: 2%;
+    top:10%;
+    font-family: "Gotham";
+    font-size: 1.3vh;
+  }
+}

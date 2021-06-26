@@ -1,0 +1,147 @@
+
+
+.div-principal-patentesInvestigacion{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.img-bannerTNM-patentesInvestigacion{
+  width: 100%;
+}
+
+.div-patentes{
+  width:100%;
+}
+
+
+.div-patentes th {
+  background-color: #2DA19A;
+  text-align: center;
+  font-size: 2vh;
+  font-family: 'Gotham';
+  color: white;
+}
+
+.div-patentes table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.div-patentes td {
+  text-align: center;
+  font-family: 'Gotham-Book';
+  padding: 8px;
+}
+
+.div-patentes tr:nth-child(even){
+  background-color: #f2f2f2
+}
+
+
+@media(min-width: 5000px){
+  .div-principal-patentesInvestigacion{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+
+
+  .div-patentes th {
+    background-color:#2DA19A ;
+    text-align: center;
+    font-size: 2vh;
+    height: 5vh;
+    line-height: 50px;
+    font-family: 'Gotham';
+    color: white;
+  }
+
+  .div-patentes table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .div-patentes td {
+    text-align: center;
+    font-family: 'Gotham-Book';
+    padding: 8px;
+    font-size: 1vh;
+  }
+
+  .div-patentes tr:nth-child(even){
+    background-color: #f2f2f2
+  }
+}
+
+@media(min-width: 2500px){
+  .div-principal-patentesInvestigacion{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .div-patentes th {
+    background-color:#2DA19A ;
+    text-align: center;
+    font-size: 2vh;
+    height: 5vh;
+    line-height: 50px;
+    font-family: 'Gotham';
+    color: white;
+  }
+
+  .div-patentes table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .div-patentes td {
+    text-align: center;
+    font-family: 'Gotham-Book';
+    padding: 10px;
+    font-size: 1.5vh;
+  }
+
+  .div-patentes tr:nth-child(even){
+    background-color: #f2f2f2
+  }
+}
+
+@media(max-width: 770px){
+
+}
+
+@media(max-width: 420px){
+  .div-principal-patentesInvestigacion{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .div-patentes th {
+    background-color:#2DA19A ;
+    text-align: center;
+    font-size: 1vh;
+    height: 1vh;
+    line-height: 10px;
+    font-family: 'Gotham';
+    color: white;
+  }
+
+  .div-patentes table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .div-patentes td {
+    text-align: center;
+    font-family: 'Gotham-Book';
+    padding: 8px;
+    font-size: 1vh;
+  }
+
+  .div-patentes tr:nth-child(even){
+    background-color: #f2f2f2
+  }
+}

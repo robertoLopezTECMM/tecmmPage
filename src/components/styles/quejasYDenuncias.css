@@ -1,0 +1,290 @@
+
+
+.div-principalQuejas{
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.img-bannerTNM{
+  width:100%;
+}
+
+
+.img-bannerQuejas{
+  width:100%;
+}
+
+.div-botonesQuejas{
+  display: flex;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.div-Queja1{
+  width: 33%;
+  margin: 0.3%;
+  background-color: ;
+}
+
+.btn1-Quejas{
+  width: 100%;
+  height: 15vh;
+  font-family: 'Gotham-Ultra';
+  background-color: #0c2633;
+  color: white;
+  outline: none;
+  border:0;
+  border-radius: 5px;
+  cursor:pointer;
+}
+
+
+
+.div-Queja2{
+  width: 33%;
+  margin: 0.3%;
+}
+
+.btn2-Quejas{
+  width: 100%;
+  height: 15vh;
+  font-family: 'Gotham-Ultra';
+  background-color: #0c2633;
+  color: white;
+  outline: none;
+  border:0;
+  border-radius: 5px;
+  cursor:pointer;
+}
+
+
+
+.div-Queja3{
+  width: 33%;
+  margin: 0.3%;
+}
+
+.btn3-Quejas{
+  width: 100%;
+  height: 15vh;
+  font-family: 'Gotham-Ultra';
+  background-color: #0c2633;
+  color: white;
+  outline: none;
+  border:0;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+
+.p-Quejas{
+  width:100%;
+  height: 80vh;
+  font-family: 'Gotham-Book';
+  background-color: #0c2633;
+  color: white;
+  text-align: justify;
+  padding: 2%;
+  margin-top: 2%;
+}
+
+
+
+
+@media(min-width:5000px){
+
+  .div-principalQuejas{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .btn1-Quejas{
+    width: 100%;
+    height: 15vh;
+    font-family: 'Gotham-Ultra';
+    background-color: #0c2633;
+    color: white;
+    outline: none;
+    border:0;
+    border-radius: 5px;
+    cursor:pointer;
+    font-size: 1.5vh;
+  }
+
+  .btn2-Quejas{
+    width: 100%;
+    height: 15vh;
+    font-family: 'Gotham-Ultra';
+    background-color: #0c2633;
+    color: white;
+    outline: none;
+    border:0;
+    border-radius: 5px;
+    cursor:pointer;
+    font-size: 1.5vh;
+  }
+
+
+  .btn3-Quejas{
+    width: 100%;
+    height: 15vh;
+    font-family: 'Gotham-Ultra';
+    background-color: #0c2633;
+    color: white;
+    outline: none;
+    border:0;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.5vh;
+  }
+
+
+
+  .p-Quejas{
+    width:100%;
+    height: 80vh;
+    font-family: 'Gotham-Book';
+    background-color: #0c2633;
+    color: white;
+    text-align: justify;
+    padding: 2%;
+    margin-top: 2%;
+    font-size: 1.7vh;
+  }
+}
+
+@media(min-width: 2500px){
+  .div-principalQuejas{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+  .div-principalQuejas{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 00%;
+  }
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+  .div-principalQuejas{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 00%;
+  }
+}
+
+@media(max-width:420px){
+
+  .img-bannerQuejas{
+    width:100%;
+    margin-bottom: -1%;
+  }
+
+  .div-principalQuejas{
+    width: 100%;
+    margin-left: 00%;
+                margin-right: 00%;
+  }
+
+
+  .div-botonesQuejas{
+    display: block;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+  }
+
+  .div-Queja1{
+    width: 100%;
+    display: block;
+    background: white;
+    padding: 1%;
+
+  }
+
+  .btn1-Quejas{
+    width: 100%;
+    height: 15vh;
+    font-family: 'Gotham-Ultra';
+    font-size: 2vh;
+    background-color: #0c2633;
+    color: white;
+    outline: none;
+    border:0;
+    border-radius: 5px;
+    cursor:pointer;
+    margin-bottom: 1%;
+  }
+
+
+  .div-Queja2{
+    width: 100%;
+    display: block;
+    background: white;
+    padding: 1%;
+
+  }
+
+  .btn2-Quejas{
+    width: 100%;
+    height: 15vh;
+    font-family: 'Gotham-Ultra';
+    font-size: 2vh;
+    background-color: #0c2633;
+    color: white;
+    outline: none;
+    border:0;
+    border-radius: 5px;
+    cursor:pointer;
+    margin-bottom: 1%;
+  }
+
+
+  .div-Queja3{
+    width: 100%;
+    display: block;
+    background: white;
+    padding: 1%;
+
+  }
+
+  .btn3-Quejas{
+    width: 100%;
+    height: 15vh;
+    font-family: 'Gotham-Ultra';
+    font-size: 2vh;
+    background-color: #0c2633;
+    color: white;
+    outline: none;
+    border:0;
+    border-radius: 5px;
+    cursor:pointer;
+    margin-bottom: 1%;
+  }
+
+  .p-Quejas{
+    width:100%;
+    height: 40vh;
+    font-family: 'Gotham-Book';
+    font-size: 1.5vh;
+    background-color: #0c2633;
+    color: white;
+    text-align: justify;
+    padding: 2%;
+    margin-top: 0%;
+  }
+}

@@ -1,0 +1,25 @@
+.div-principal-gridCampusJalisco{
+  height: 38vh;
+  display: grid;
+  grid-template-columns: 35vh 35vh 35vh;
+
+  overflow: auto;
+
+}
+
+.div-principal-gridCampusJalisco button{
+
+  width:20vh;
+  height: 11vh;
+  top: 0%;
+  right: 0%;
+  background-color: red;
+  margin: 2vh;
+  color: white;
+  font-size: 2vh;
+  font-family: 'Gotham-Ultra';
+  border: none;
+  cursor: pointer;
+
+  text-align: center;
+}

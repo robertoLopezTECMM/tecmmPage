@@ -1,0 +1,77 @@
+.ResultadosCondonacionesContainer{
+    background-color: white;
+    width:1024px; /* or whatever width you want. */
+    max-width:1200px;/* or whatever width you want. */
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .ResultadosCondonacionesContainer h1{
+      color: #6d356d;
+      font-family: "Gotham-Ultra";
+  }
+
+  .ResultadosCondonacionesSubtitulo{
+    color: #2DA19A;
+    font-family: "Gotham";
+}
+
+  .ResultadosCondonacionesContainer p{
+      padding: 15px;
+      text-align: justify;
+      font-family: "Gotham-Book";
+
+  }
+
+  #resaltado{
+      color:#6d356d;
+      font-family: "Gotham";
+  }
+
+  .enlacesCondonaciones{
+      display: block;
+      text-align: justify;
+      margin:15px;
+      color:#2DA19A;
+      font-family: "Gotham";
+      font-size: 20px;
+     
+  }
+
+  .enlacesCondonaciones a{
+    text-decoration: none;
+    color:#2DA19A;
+  }
+
+  .enlacesCondonaciones a:hover{
+    text-decoration: none;
+    color:#6d356d;
+  }
+
+  @media(min-width:0px) and (max-width: 420px){
+    .ResultadosCondonacionesContainer{
+      background-color: white;
+      width:100%; /* or whatever width you want. */
+      max-width:100%;/* or whatever width you want. */
+      height: auto;
+      display:block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .ui.card:first-child{
+        margin-left: 2%;
+    }
+    .ui.cards{
+        margin-left: 10%;
+    }
+
+    .ResultadosCondonacionesContainer p{
+      padding: 15px;
+      text-align: justify;
+      font-family: "Gotham";
+
+  }
+  }

@@ -1,0 +1,432 @@
+.maestriaSistemasContainer{
+  width:80%;
+  margin-left: 10%;
+}
+
+.inscribeteContainer{
+  position:fixed;
+  z-index: 100;
+  width:70px;
+  height: 50px;
+  background-color: #2DA19A;
+  color:white;
+  bottom:50%;
+  right: 0;
+  border-radius: 10px;
+  transition: width 0.5s;
+  border:2px #6D356C solid;
+}
+
+.inscribeteContainer:hover{
+  width: 300px;
+  height: 300px;
+}
+
+#formularioContacto{
+  display: none;
+}
+
+#formularioContacto h2{
+  font-family: "Gotham-Ultra";
+}
+
+#formularioContacto p{
+  font-family: "Gotham-Book";
+  margin-top: 1%;
+}
+
+#formularioContacto input{
+  width: 90%;
+  margin-left: 5%;
+  font-family: "Gotham-Book";
+  display: block;
+  outline: none;
+  border:none;
+  border-radius: 5px;
+}
+
+#formularioContacto button{
+  width: 80%;
+  height: 40px;
+  margin-left: 10%;
+  margin-top: 5%;
+  font-family: "Gotham-Book";
+  display: block;
+  background-color: #6D356C;
+  border:none;
+  color:white;
+  border-radius: 5px;
+}
+
+.inscribeteContainer:hover #formularioContacto{
+  display: block;
+}
+
+.inscribeteContainer:hover #iconoInscribete{
+  display: none;
+}
+
+
+
+
+.objetivosSistemasContainer{
+  width: 100%;
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: solid 5px white;
+}
+
+.objetivoContainer{
+
+  width: 100%;
+  height: 50%;
+  position: relative;
+  margin-top: 0%;
+  text-align: justify;
+  color: white;
+  display: flex;
+  background-color: #2DA19A;
+}
+
+.objetivoContainer h1{
+  font-family: "Gotham-Ultra";
+  text-align: center;
+  font-size: 3.5vh;
+  margin:2%;
+}
+
+.objetivoContainer p{
+  font-family: "Gotham";
+  padding: 3%;
+    font-size: 1.7vh;
+}
+
+.objetivoContainer img{
+  max-width: 50%;
+  padding: 0%;
+  border-radius: 0px;
+}
+
+
+.objetivosParticularesContainer{
+  width: 100%;
+  height: 50%;
+  right: 0%;
+  position: relative;
+  margin-top: 0%;
+  text-align: justify;
+  color:white;
+  background-color: #6D356C;
+  display: flex;
+
+}
+
+.objetivosParticularesContainer h1{
+  font-family: "Gotham-Ultra";
+  text-align: center;
+  font-size: 3.5vh;
+  margin:2%;
+}
+
+.objetivosParticularesContainer ul{
+  font-family: "Gotham";
+  font-size: 1.7vh;
+  margin-right: 1%;
+}
+
+.objetivosParticularesContainer img{
+  max-width: 50%;
+  padding: 0%;
+  border-radius: 0px;
+}
+
+
+.perfilSistemasContainer{
+  width: 100%;
+  height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+}
+
+.perfilIngreso{
+  /*background-color: rgb(109, 53, 108, 0.5);*/
+  width: 100%;
+  height: 50%;
+  left: 0%;
+  position: relative;
+  margin-top: 0%;
+  text-align: justify;
+  color:white;
+  padding: 1%;
+  background-color: #2DA19A;
+}
+
+.perfilIngreso h1{
+  font-family: "Gotham-Ultra";
+  text-align: left;
+    font-size: 3.5vh;
+}
+
+.perfilIngreso ul{
+  font-family: "Gotham";
+}
+
+.perfilEgreso{
+  /*background-color: rgb(109, 53, 108, 0.5);*/
+  width: 100%;
+  height: 50%;
+  left: 0%;
+  position: relative;
+  margin-top: 0%;
+  text-align: justify;
+  color:white;
+  padding: 1%;
+  background-color: #6D356C;
+}
+
+.perfilEgreso h1{
+  font-family: "Gotham-Ultra";
+  text-align: left;
+  font-size: 3.5vh;
+}
+
+.perfilEgreso p{
+  font-family: "Gotham";
+}
+
+
+.datosCard{
+  width: 30%;
+  margin-right: 5%;
+  margin-left: 5%;
+  background-color: ;
+  border: 3px solid #6D356C;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.datosCard img{
+  max-width: 100px;
+}
+
+.datosCard h1{
+  font-family: "Gotham-Ultra";
+  color:white;
+  font-size: 2.4vh;
+  text-align: center;
+}
+
+.contador{
+  font-family: "Gotham-Ultra";
+  font-size: 25px!important;
+  color:white;
+}
+
+
+.nucleoAcademicoContainer{
+  background-color: #2DA19A;
+}
+
+.ui.four.doubling.cards{
+  margin-left: 0%;
+  margin-right: 0%;
+  background-color: transparent
+}
+
+.header{
+  color:#2DA19A!important;
+  font-family: "Gotham"!important;
+}
+
+.meta a{
+  font-family: "Gotham-Book";
+  color:#6D356C!important;
+}
+
+.description{
+  text-align: justify;
+  font-family: "Gotham-Book"!important;
+}
+
+.extra.content{
+  font-size: 1.5vh!important;
+}
+
+
+
+.generacionesContainer{
+  width: 100%;
+  height: 100vh;
+  background-color: #6D356C;
+  cursor:default;
+  border-bottom: 3px white solid;
+}
+
+
+
+.center.aligned.description{
+  font-family: "Gotham-Book";
+}
+
+.center.aligned.author{
+  color:#6D356C;
+  font-family: "Gotham-Book";
+  cursor:default;
+}
+
+
+/*RESOLUCION PARA IMAC*/
+@media(min-width:2500px) and (max-width:5000px){
+
+}
+
+/*RESOLUCION PARA MACKBOOK PRO*/
+@media(min-width:1600px) and (max-width: 2400px){
+
+}
+
+/*RESOLUCION PARA IPAD PRO*/
+@media(min-width:771px) and (max-width: 1025px){
+
+}
+
+/*RESOLUCION PARA IPAD*/
+@media(min-width:500px) and (max-width: 770px){
+
+}
+
+/*RESOLUCION PARA CELULARES*/
+@media(min-width:100px) and (max-width: 420px){
+  .maestriaSistemasContainer{
+    width:100%;
+    margin-left: 0%;
+  }
+
+  .objetivosSistemasContainer{
+    height: auto;
+  }
+
+  .objetivoContainer{
+    width: 100%;
+    height: auto;
+  }
+
+  .objetivoContainer h1{
+    font-size: 2vh;
+  }
+
+  .objetivoContainer p{
+    font-size: 1vh;
+  }
+
+  .objetivoContainer img{
+    display: none;
+  }
+
+
+  .objetivosParticularesContainer{
+    width: 100%;
+    height: auto;
+  }
+
+  .objetivosParticularesContainer h1{
+    font-size: 2vh;
+    margin-top:5%;
+  }
+
+  .objetivosParticularesContainer ul{
+    font-size: 1vh;
+    margin-right: 5%;
+  }
+
+  .objetivosParticularesContainer img{
+    display: none;
+  }
+
+
+
+  .perfilSistemasContainer{
+    height: auto;
+  }
+
+  .perfilIngreso{
+    /*background-color: rgb(109, 53, 108, 0.5);*/
+    width: 100%;
+    height: auto;
+    left: 0%;
+    position: relative;
+    margin-top: 0%;
+    text-align: justify;
+    color:white;
+    padding: 1%;
+    background-color: #2DA19A;
+  }
+
+  .perfilIngreso h1{
+    text-align: center;
+    font-size: 2vh;
+  }
+
+  .perfilIngreso ul{
+    font-size: 1vh;
+    margin-right: 5%;
+  }
+
+  .perfilEgreso h1{
+    text-align: center;
+    font-size: 2vh;
+  }
+
+  .perfilEgreso p{
+    font-size: 1vh;
+  }
+
+  .datosCard img{
+    max-width: 50px;
+  }
+
+  .datosCard h1{
+    font-size: 1.5vh;
+    text-align: center;
+  }
+
+  .contador{
+    font-size: 15px!important;
+  }
+
+
+
+
+
+  .header{
+    font-size: 1.7vh!important;
+    color:#2DA19A!important;
+    font-family: "Gotham"!important;
+  }
+
+  .meta a{
+    font-size: 1.3vh!important;
+    font-family: "Gotham-Book";
+    color:#6D356C!important;
+  }
+
+  .description{
+    font-size: 1vh!important;
+    text-align: justify;
+    font-family: "Gotham-Book"!important;
+  }
+
+  .description ul{
+    padding: 0%;
+  }
+
+  .extra.content{
+    font-size: 1vh!important;
+  }
+}

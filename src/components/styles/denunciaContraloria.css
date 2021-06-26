@@ -1,0 +1,215 @@
+
+
+.div-principalFormulario{
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80%;
+  height: 100%;
+  background-color: white;
+
+}
+
+.img-bannerTNM{
+  width:100%;
+}
+
+
+
+.p-instruccionesFormulario{
+  width: 100%;
+
+  padding: 1%;
+  background-color: white;
+  border-radius: 0px;
+  font-size: 2vh;
+  text-align: justify;
+}
+
+.p-instruccionesFormulario p{
+  font-family: "Gotham"
+
+}
+
+
+.form-denunciaContraloria {
+  display:flex;
+  font-size: 5vh;
+  font-family: "Gotham-Book";
+}
+
+.form-denunciaContraloria h3{
+  text-align: center;
+  font-family: "Gotham";
+}
+
+
+.div-datosFormulario{
+  width: 100%;
+  padding: 1%;
+  height: 60%;
+  text-align: left;
+
+
+
+}
+
+.div-descripcionFormulario{
+  width:100%;
+  padding: 1%;
+  height: 60%;
+  text-align: left;
+
+}
+
+.textarea-hechosFormulario{
+  height: 50px !important;
+}
+
+
+.div-botonesFormulario{
+  width: 100%;
+  height: 10%;
+  text-align:right;
+}
+
+
+
+.botonEnviar{
+  background-color: #63c600;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.botonEnviar:hover{
+  opacity: 1.0
+}
+
+.botonCancelar{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.botonCancelar:hover{
+  opacity: 1.0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.inputfile + label {
+    max-width: 80%;
+    font-size: 1.25rem;
+    /* 20px */
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0.625rem 1.25rem;
+    /* 10px 20px */
+}
+
+.no-js .inputfile + label {
+    display: none;
+}
+
+.inputfile:focus + label,
+.inputfile.has-focus + label {
+    outline: 1px dotted #000;
+    outline: -webkit-focus-ring-color auto 5px;
+}
+
+.inputfile + label * {
+    /* pointer-events: none; */
+    /* in case of FastClick lib use */
+}
+
+.inputfile + label svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -0.25em;
+    /* 4px */
+    margin-right: 0.25em;
+    /* 4px */
+}
+
+
+/* style 1 */
+
+.inputfile-1 + label {
+    color: #f1e5e6;
+    background-color: #d3394c;
+}
+
+.inputfile-1:focus + label,
+.inputfile-1.has-focus + label,
+.inputfile-1 + label:hover {
+    background-color: #722040;
+}
+
+
+
+@media(min-width:5000px){
+
+
+}
+
+@media(min-width: 2500px){
+  .div-principalFormulario{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
+@media(max-width:770px){
+
+
+}
+
+@media(max-width:420px){
+  .div-principalFormulario{
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: #b5b5b5;
+  }
+
+  .form-denunciaContraloria {
+    display:block;
+    font-size: 5vh;
+    font-family: "Gotham-Book";
+  }
+
+}
