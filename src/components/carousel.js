@@ -41,7 +41,6 @@ import './styles/carousel.css';
           //{ref_banner:"http://dashboard.tecmm.edu.mx/bannersCarousel/2019-12-04-convocatoriasixsigma.webp", link:"http://dashboard.tecmm.edu.mx/documentosCarousel/2019-12-04-convocatoria lean six sigma yellow belt.pdf"},
           //{ref_banner:"http://dashboard.tecmm.edu.mx/bannersCarousel/leona-vicario.webp", link:""},
         ],
-
       }
     }
 
@@ -81,7 +80,7 @@ import './styles/carousel.css';
 
             </Carousel>
 
-            <div class="div-botonesCarousel">
+            <div className="div-botonesCarousel">
 
               <a href="/ofertaAcademica">
                 <button  className="btn1Oferta">OFERTA<br/>ACADÉMICA</button>
