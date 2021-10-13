@@ -5,10 +5,27 @@ import { Button, Modal } from 'react-bootstrap';
 import axios from 'axios';
 
 function ModalGaceta(props) {
-  
-  const [gacetas, setGaceta] = useState([]);
+  let initState = [
+    {
+      nombre: "Gaceta TecMM 2017",
+      href: "http://tecmm.edu.mx/recursos/gacetas/Gaceta-TecMM-2017.pdf"
+    },
+    {
+      nombre: "Gaceta TecMM 2018",
+      href: "http://tecmm.edu.mx/recursos/gacetas/Gaceta-TecMM-2018.pdf"
+    },
+    {
+      nombre: "Gaceta TecMM 2019",
+      href: "http://tecmm.edu.mx/recursos/gacetas/Gaceta-TecMM-2019.pdf"
+    },
+    {
+      nombre: "Gaceta TecMM 2020",
+      href: "http://tecmm.edu.mx/recursos/gacetas/Gaceta-TecMM-2020.pdf"
+    },
+  ];
+  const [gacetas, setGaceta] = useState(initState);
 
-  useEffect(() => {
+  /*useEffect(() => {
     // console.log(props);
     const url = 'https://dashboard.tecmm.edu.mx/dashboardScript.php'
     axios.get(url, {params:{action:"getGacetas"}}).then(response => response.data)
@@ -17,7 +34,7 @@ function ModalGaceta(props) {
         setGaceta(data)
       }
     })
-  });
+  });*/
   
   return (
     <Modal
@@ -28,7 +45,7 @@ function ModalGaceta(props) {
     >
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">
-          Gaceta TecMM
+          Gacetas TecMM
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
@@ -39,7 +56,7 @@ function ModalGaceta(props) {
             <>
               <div className="row form-group mx-2">
                 <h4>
-                  <a target="_blank" href={gaceta.link} style={{"text-decoration": "none"}}>
+                  <a target="_blank" href={gaceta.href} style={{"text-decoration": "none"}}>
                     <i className="fas fa-file-pdf text-secondary"></i> {'\u00A0'} {gaceta.nombre}
                   </a>
                 </h4>

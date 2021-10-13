@@ -77,7 +77,7 @@ class LinksFooter extends Component{
           <a class="tag" target="_blank" href="https://sicyt.jalisco.gob.mx/" >SICyT</a>
           <a class="tag" target="_blank" href="/rectoria">ORGANIGRAMA</a>
           <a class="tag" target="_blank" href="http://187.174.80.181/compras/">LICITACIONES</a>
-          <a class="tag" target="_blank" href="https://sites.google.com/tecmm.edu.mx/adquisiciones/inicio">LICITACIONES 2021</a>
+          <a class="tag" target="_blank" href="https://sites.google.com/tecmm.edu.mx/adquisiciones/inicio">LICITACIONES Y ADJUDICACIONES DIRECTAS</a>
           <a class="tag" target="_blank" href="https://tecnm.occ.com.mx/Bolsa_Trabajo">BOLSA DE TRABAJO</a>
           <a class="tag" target="_blank" href="http://tecmm.edu.mx/normatividad">NORMATIVIDAD</a>
           <a class="tag" target="_blank" href="/juntasGobierno">JUNTAS DE GOBIERNO</a>
