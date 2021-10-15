@@ -108,8 +108,8 @@ class DescubreTECMM extends Component{
               <img src='http://tecmm.edu.mx/imagesReact/images/descubreTECMM/Gaceta-TECMM.jpg' style={{marginRight:"2px"}} className="img-card"/>
             </a> */}
 
-            <a target="_blank" href="http://tecmm.edu.mx/Carrera/Ingenieria-en-Gestion-Empresarial-en-Linea">
-              <img src='http://tecmm.edu.mx/imagesReact/images/descubreTECMM/Formacion-Distancia.jpg' style={{marginRight:"2px"}} className="img-card"/>
+            <a target="_blank" href="https://www.plataformadetransparencia.org.mx/">
+              <img src='http://tecmm.edu.mx/imagesReact/images/descubreTECMM/Tu-PlataformaMcx.jpg' style={{marginRight:"2px"}} className="img-card"/>
             </a>
 
             <a href="http://www.posgrado.tecmm.edu.mx/">
