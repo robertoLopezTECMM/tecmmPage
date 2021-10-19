@@ -83,16 +83,17 @@ import './styles/carousel.css';
             <div className="div-botonesCarousel">
 
               <a href="/ofertaAcademica">
-                <button  className="btn1Oferta">OFERTA<br/>ACADÉMICA</button>
+                {/* <button  className="btn1Oferta">OFERTA<br/>ACADÉMICA</button> */}
+                <button  className="btn2Campus">OFERTA<br/>ACADÉMICA</button>
               </a>
 
               <a href="/unidadesAcademicas">
-                <button className="btn2Campus">UNIDADES ACADÉMICAS</button>
+                <button className="btn3Escolares">UNIDADES ACADÉMICAS</button>
               </a>
 
-              <a href="http://controlescolar.tecmm.edu.mx/">
+              {/* <a href="http://controlescolar.tecmm.edu.mx/">
                 <button className="btn3Escolares">SERVICIOS<br/>ESCOLARES</button>
-              </a>
+              </a> */}
 
             </div>
 
