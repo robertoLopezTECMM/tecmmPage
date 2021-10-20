@@ -65,7 +65,7 @@ class MenuCentral extends Component {
             </ul>
           </a>
 
-          <a href="http://controlescolar.tecmm.edu.mx">ADMISIÓN</a>
+          <a href="http://187.174.80.183:3010/">ADMISIÓN</a>
           <a href="/vidaEstudiantil">VIDA ESTUDIANTIL</a>
           <a href="/contacto">CONTACTO</a>
           <a href="/igualdad">SGIG</a>
@@ -109,7 +109,7 @@ class MenuCentral extends Component {
           </Dropdown.Menu>
         </Dropdown>
         <Nav.Item id="navItemBootstrap">
-          <Nav.Link id="navLinkBootstrap" href="http://controlescolar.tecmm.edu.mx">
+          <Nav.Link id="navLinkBootstrap" href="http://187.174.80.183:3010/">
             ADMISIÓN
           </Nav.Link>
         </Nav.Item>
