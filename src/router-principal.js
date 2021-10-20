@@ -32,6 +32,7 @@ import NuevoIngreso from './components/nuevoIngreso.js'
 import JuntasGobierno from './components/juntasGobierno.js'
 import Condonaciones from './components/condonaciones.js'
 import ResultadosCondonaciones from './components/resultadoCondonaciones.js'
+import admision from './components/admision.js'
 
 
 
@@ -75,6 +76,7 @@ class RouterPrincipal extends Component {
             <Route path="/condonaciones" component={Condonaciones}/>
             <Route path="/resultadosCondonaciones" component={ResultadosCondonaciones}/>
             {/*<Route path="/generadorReferencias" component={SimpleProgressStep}/>*/}
+            <Route path="/admision" component={admision}/>
           </Switch>
         </BrowserRouter>
       </div>
