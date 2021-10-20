@@ -22,6 +22,10 @@ function ModalGaceta(props) {
       nombre: "Gaceta TecMM 2020",
       href: "http://tecmm.edu.mx/recursos/gacetas/Gaceta-TecMM-2020.pdf"
     },
+    {
+      nombre: "Gaceta TecMM 2021",
+      href: "http://tecmm.edu.mx/recursos/gacetas/Gaceta-TecMM-2021.pdf"
+    },
   ];
   const [gacetas, setGaceta] = useState(initState);
 
