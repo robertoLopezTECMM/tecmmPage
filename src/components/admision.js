@@ -15,7 +15,6 @@ class admision extends Component {
   render() {
 
     return (
-
       <div>
 
       </div>
