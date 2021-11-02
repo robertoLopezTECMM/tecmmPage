@@ -1,22 +1,22 @@
 self.__precacheManifest = [
   {
-    "revision": "7b4d88eb09abdcd375da",
-    "url": "/static/css/main.f1cbb8fe.chunk.css"
+    "revision": "6e86b209ad75ffad43d7",
+    "url": "/static/css/main.2840f785.chunk.css"
   },
   {
-    "revision": "7b4d88eb09abdcd375da",
-    "url": "/static/js/main.a5e7f196.chunk.js"
+    "revision": "6e86b209ad75ffad43d7",
+    "url": "/static/js/main.571963e2.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "6eedf012b133da6fba69",
-    "url": "/static/css/2.17364595.chunk.css"
+    "revision": "f8909b860f344c0c6fdd",
+    "url": "/static/css/2.65c172fe.chunk.css"
   },
   {
-    "revision": "6eedf012b133da6fba69",
+    "revision": "f8909b860f344c0c6fdd",
     "url": "/static/js/2.7a438640.chunk.js"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/static/media/Fondo-01.5ff6ddd7.jpg"
   },
   {
-    "revision": "ca8c266dc2e6c136371256ce2b62eb8f",
+    "revision": "81af82082b7f14666e2f18b878ee54c0",
     "url": "/index.html"
   }
 ];

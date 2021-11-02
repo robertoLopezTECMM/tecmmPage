@@ -251,7 +251,7 @@ class VidaEstudiantil extends Component {
               <h1>MI TECMM</h1>
               <p>La plataforma edcore es el sistema de gestión escolar que integra a las 13 Unidades Académicas del TecMM del Estado de Jalisco, siendo una de las redes más grandes de México.</p>
               <a target="_blank" href="http://www.tecmm.edu.mx/admision">
-                <button>EDCORE ALUMNOS</button>
+                <button>MI TECMM ALUMNOS</button>
               </a>
             </div>
           </Fade>
