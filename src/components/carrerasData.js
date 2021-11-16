@@ -9,6 +9,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovacion-Agricola-Sustentable.jpg',
       portada: "http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Innovacion-Agricola.jpg",
       youtube:'qvIWinTFRzo',
+      videoInstitucional: "https://drive.google.com/file/d/1gnNS83iJTxKzuAtJIz-A3x0OwK87byBX/view",
       campus: "COCULA, TALA, TAMAZULA, ZAPOTLANEJO",
       objetivo: "Formar profesionistas analíticos y críticos, comprometidos socialmente y con sólida cultura científico tecnológica, que les permita la planeación del desarrollo regional en el contexto de la sustentabilidad, para realizar investigación, validación, transferencia, adaptación, producción e innovación agrícola.",
       perfilIngreso : [
@@ -40,7 +41,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Innovacion-Agricola-Sustentable.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_INNOVACIN_AGRCOLA_SUSTENTABLE_IIAS-2010-221.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Innovacion-Agricola-Sustentable.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Innovacion-Agricola-Sustentable.pdf',
     };
 
     carrerasArray[1]={
@@ -48,6 +49,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Administracion.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Adnministracion.jpg',
       youtube:'SiklbYKU46E',
+      videoInstitucional: "https://drive.google.com/file/d/1vAI6wKOOsTvkJECwAos_3K9CnIVLLt89/view",
       campus: 'LA HUERTA, TALA, TAMAZULA, ZAPOTLANEJO' ,
       objetivo: "Formar profesionales competentes en la creación, dirección e innovación de organizaciones que enfrenten desafíos en un entorno globalizado, con visión emprendedora, ética, humana y de responsabilidad social.",
       perfilIngreso : [
@@ -83,7 +85,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Administracion.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_ADMINISTRACIN_IADM-2010-213.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Administracion.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Administracion.pdf',
     };
 
     carrerasArray[2]={
@@ -91,6 +93,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Ambiental.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Ambiental.jpg',
       youtube:'0W4nKuE804U',
+      videoInstitucional: "https://drive.google.com/file/d/181eREsYrEGf_9zcGD2hSiF1RhdOtqrWY/view",
       campus: 'ARANDAS',
       objetivo: "Formar profesionistas en Ingeniería Ambiental éticos, analíticos, críticos y creativos con las competencias para identificar, proponer y resolver problemas ambientales de manera multidisciplinaria, asegurando la protección, conservación y mejoramiento del ambiente, bajo un marco legal, buscando el desarrollo sustentable en beneficio de la vida en el planeta.",
       perfilIngreso : [
@@ -129,6 +132,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Animacion-Efectos-Audiovisuales.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Animacion.jpg',
       youtube:'q5VUA47oAgQ',
+      videoInstitucional: "https://drive.google.com/file/d/1jfeQ7dnzjpC2AlEpe5taeFtNPD7NxxTN/view",
       campus: 'CHAPALA',
       objetivo: "Formar profesionistas capaces de adaptar, desarrollar y aplicar recursos tecnológicos en la producción de animación digital y efectos visuales, impulsando la tecnología para responder a los desafíos de las industrias de la animación digital y los efectos visuales, en un contexto global, multidisciplinario y sustentable.",
       perfilIngreso : [
@@ -165,6 +169,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Arquitectura.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Arquitectura.jpg',
       youtube:'1Vt2xyS547s',
+      videoInstitucional: "https://drive.google.com/file/d/1CKMUDWYkuE4on3yyUW_yCKdCRuskuqna/view",
       campus: 'EL GRULLO, LA HUERTA, PUERTO VALLARTA, TALA',
       objetivo: "Formar en competencias, profesionistas líderes con excelencia académica y humanística, capaces de diseñar, gestionar y construir el hábitat humano con alto desempeño, sustentabilidad y vocación de servicio a la sociedad.",
       perfilIngreso : [
@@ -188,7 +193,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Arquitectura.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/ARQUITECTURA_ARQU-2010-204.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Arquitectura.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Arquitectura.pdf',
     };
 
     carrerasArray[5]={
@@ -196,6 +201,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Civil.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Civil.jpg',
       youtube:'t17aryJFc4E',
+      videoInstitucional: "https://drive.google.com/file/d/1dN_u4vv6GFGDyr4e13Ou8N14eachP9ZU/view",
       campus: 'LAGOS DE MORENO, TEQUILA, ZAPOPAN',
       objetivo: "Formar ingenieros civiles de manera integral, con visión humana, analítica, creativa, y emprendedora, capaces de identificar y resolver problemas con eficiencia, eficacia y pertinencia, mediante la planeación, diseño, construcción, operación y conservación de obras de infraestructura, en el marco de la globalización, la sustentabilidad y la calidad, contribuyendo al desarrollo de la sociedad.",
       perfilIngreso : [
@@ -215,7 +221,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Civil.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_CIVIL_ICIV-2010-208.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Civil.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-Civil.pdf',
     };
 
     carrerasArray[6]={
@@ -223,6 +229,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Contador-Publico.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Contador.jpg',
       youtube:'5BStNwjphLE',
+      videoInstitucional: "https://drive.google.com/file/d/1zxdrvRKMjrD10vfJQhCAIFFdbe81mOyp/view",
       campus: 'ZAPOTLANEJO',
       objetivo: "Formar profesionales competitivos, capaces de diseñar, establecer, aplicar, controlar y evaluar sistemas de información financiera, fiscal y administrativa, para la toma de decisiones de las entidades económicas nacionales e internacionales, con una actitud ética, crítica, emprendedora y de liderazgo, a través de la investigación y el uso de la tecnología de la información y la comunicación, fomentando el desarrollo sustentable.",
       perfilIngreso : [
@@ -264,6 +271,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electromecanica.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Electromecanica.jpg',
       youtube:'rxlPixDE6hc',
+      videoInstitucional: "https://drive.google.com/file/d/1G0fKqC_gydtngC1ri8rHc7mubJtLy_Je/view",
       campus: 'ARANDAS, PUERTO VALLARTA, COCULA, TAMAZULA, EL GRULLO, TEQUILA, ZAPOPAN',
       objetivo: "Formar profesionistas de excelencia en ingeniería electromecánica, con actitud emprendedora, con liderazgo y capacidad de: analizar, diagnosticar, diseñar, seleccionar, instalar, administrar, mantener e innovar sistemas electromecánicos, en forma eficiente, segura y económica. Considerando las normas y estándares nacionales e internacionales para fomentar el desarrollo sustentable con plena conciencia ética, humanística y social.",
       perfilIngreso : [
@@ -285,7 +293,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Electromecanica.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_ELECTROMECNICA__IEME-2010-210.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Electromecanica.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-Electromecanica.pdf',
     };
 
     carrerasArray[8]={
@@ -293,6 +301,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electronica.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Electronica.jpg',
       youtube:'WcYZn4rosuY',
+      videoInstitucional: "#",
       campus: 'ZAPOPAN',
       objetivo: "Formar profesionistas con competencias profesionales para diseñar, modelar, implementar, operar, integrar, mantener, instalar, administrar, innovar y transferir tecnología electrónica existente y emergente en proyectos interdisciplinarios, a nivel nacional e internacional, para resolver problemas y atender las necesidades de su entorno con ética, actitud emprendedora, creativa, analítica y comprometidos con el desarrollo sustentable.",
       perfilIngreso : [
@@ -327,7 +336,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Electronica.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_ELECTRNICA_IELC-2010-211.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Electronica.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-Electronica.pdf',
     };
 
     carrerasArray[9]={
@@ -335,6 +344,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovaion-Energias-Renovables.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Energias-Renovables.jpg',
       youtube:'vwYNq_elvMw',
+      videoInstitucional: "https://drive.google.com/file/d/1VMP_X9Cfifsu0sFovhGFNoO72cAJa-mC/view",
       campus: 'TEQUILA',
       objetivo: "Formar recursos humanos competentes para intervenir profesionalmente en proyectos, estrategias y acciones de generación, transformación y almacenamiento de energía proveniente de fuentes renovables, así como de uso eficiente de la energía, en el marco de un desarrollo sustentable.",
       perfilIngreso : [
@@ -367,6 +377,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Gastronomia.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Gastronomia.jpg',
       youtube:'oqqy3VjBR_8',
+      videoInstitucional: "https://drive.google.com/file/d/1SROpHJgad0qSwLRSkE5a9uy9Et3witLH/view",
       campus: 'CHAPALA, PUERTO VALLARTA, ZAPOPAN',
       objetivo: "Formar integralmente profesionales de gastronomía, líderes, creativos, con ética, responsabilidad social, vocación de servicio y visión estratégica; capaces de diseñar, desarrollar y aplicar el arte y técnicas culinarias; así como los conocimientos científicos en la innovación de la gastronomía y gestionar empresas del sector de alimentos y bebidas que contribuyan al desarrollo sustentable de la región.",
       perfilIngreso : [
@@ -404,7 +415,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Gastronomia.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/GASTRONOMA_GAST-2010-215.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Gastronomia.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Gastronomia.pdf',
     };
 
     carrerasArray[11]={
@@ -412,6 +423,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Gestion-Empresarial.jpg',
       youtube:'SIbWitsNhu0',
+      videoInstitucional: "https://drive.google.com/file/d/1B-NVYAfDDeo_n1OU9hKTG1KFvHJQSOIv/view",
       campus: 'ARANDAS, PUERTO VALLARTA, CHAPALA, COCULA, EL GRULLO, TEQUILA, LA HUERTA, LAGOS DE MORENO, ZAPOPAN',
       objetivo: "Formar integralmente profesionales que contribuyan a la gestión de empresas e innovación de procesos; así como al diseño, implementación y desarrollo de sistemas estratégicos de negocios, optimizando recursos en un entorno global, con ética y responsabilidad social.",
       perfilIngreso : [
@@ -443,7 +455,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Gestion-Empresarial.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA__EN_GESTIN_EMPRESARIAL_IGEM-2009-201.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Gestion-Empresarial.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Gestion-Empresarial.pdf',
     };
 
     carrerasArray[12]={
@@ -451,6 +463,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrial.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Industrial.jpg',
       youtube:'8GONm_MoLLs',
+      videoInstitucional: "https://drive.google.com/file/d/1YRabJX6muXFideTv5M76LvclFL6jwlWB/view",
       campus: 'ARANDAS, CHAPALA, COCULA, EL GRULLO, TEQUILA, ZAPOPAN, ZAPOTLANEJO, LAGOS DE MORENO, MASCOTA, TALA',
       objetivo: "Formar profesionistas, en el campo de la ingeniería industrial, líderes, creativos y emprendedores con visión sistémica, capacidad analítica y competitiva que les permita diseñar, implementar, mejorar, innovar, optimizar y administrar sistemas de producción de bienes y servicios en un entorno global, con enfoque sustentable, ético y comprometido con la sociedad.",
       perfilIngreso : [
@@ -490,6 +503,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrias-Alimentarias.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Industrias-Alimentarias.jpg',
       youtube:'no1wsBPtCrI',
+      videoInstitucional: "https://drive.google.com/file/d/1LVmkg7nszdzJ1HOWzd0ynhUfTH1RLkNM/view",
       campus: 'ARANDAS, MASCOTA, LA HUERTA, TAMAZULA',
       objetivo: "Formar profesionistas con bases sólidas científicas, tecnológicas, con actitudes éticas y aptitudes; capaces de diseñar, administrar, desarrollar, controlar e innovar sistemas de producción en la industria alimentaria, orientados de manera sustentable e integral en el ámbito regional, nacional e internacional.",
       perfilIngreso : [
@@ -535,7 +549,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Industrias-Alimentarias.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_INDUSTRIAS_ALIMENTARIAS_IIAL-2010-219.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Industrias-Alimentarias.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Industrias-Alimentarias.pdf',
     };
 
     carrerasArray[14]={
@@ -543,6 +557,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Informatica.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Informatica.jpg',
       youtube:'ehgXAgsrqRA',
+      videoInstitucional: "https://drive.google.com/file/d/18xdy76Zxf2_GM9kKuwo339n4HKnoKMg3/view",
       campus: 'EL GRULLO, TEQUILA, ZAPOTLANEJO',
       objetivo: "Formar profesionales competentes en el diseño, desarrollo, implementación y administración de servicios informáticos y gestión de proyectos con una visión sistémica, tecnológica y estratégica, ofreciendo soluciones innovadoras e integrales a las organizaciones, de acuerdo con las necesidades globales, actuales y emergentes, comprometidos con su entorno, desempeñándose con actitud ética, emprendedora y de liderazgo.",
       perfilIngreso : [
@@ -576,12 +591,13 @@ export default function CarrerasData(){
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_INFORMTICA_IINF-2010-220.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Informatica.pdf',
     };
-
+    // no hay link
     carrerasArray[15]={
       name: 'Ingenieria-Mecatronica',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Mecatronica.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Mecatronica.jpg',
       youtube:'kfC5hNMCzq0',
+      videoInstitucional: "#",
       campus: 'CHAPALA',
       objetivo: "Formar profesionistas en la ingeniería mecatrónica con capacidad analítica, crítica y creativa que le permita diseñar, proyectar, construir, innovar y administrar equipos y sistemas mecatrónicos en el sector social y productivo; así como integrar, operar y mantenerlos, con un compromiso ético y de calidad en un marco de desarrollo sustentable.",
       perfilIngreso : [
@@ -617,6 +633,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Computacionales.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Sistemas.jpg',
       youtube:'Hw3TO2ZKKto',
+      videoInstitucional: "https://drive.google.com/file/d/1IVMWfbXzLLTE77RZ0vDZ5gy3S6RYSTP_/view",
       campus: 'ARANDAS, CHAPALA, COCULA, LA HUERTA, TALA, ZAPOPAN, LAGOS DE MORENO, MASCOTA, PUERTO VALLARTA',
       objetivo: "Formar profesionistas líderes, analíticos, críticos y creativos, con visión estratégica y amplio sentido ético, capaces de diseñar, implementar y administrar infraestructura computacional para aportar soluciones innovadoras en beneficio de la sociedad, en un contexto global, multidisciplinario y sustentable.",
       perfilIngreso : [
@@ -643,7 +660,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Sistemas-Computacionales.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_SISTEMAS_COMPUTACIONALES_ISIC-2010-224.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Sistemas-Computacionales.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Sistemas-Computacionales.pdf',
     };
 
     carrerasArray[17]={
@@ -651,6 +668,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Automotrices.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Automotriz.jpg',
       youtube:'2YdDo4GJMWM',
+      videoInstitucional: "https://drive.google.com/file/d/1COQGDPsQiFAp-xGy1FImMg9jLqV9cTFR/view",
       campus: 'LAGOS DE MORENO',
       objetivo: "Formar ingenieros que se desempeñen en el diseño, planeación, desarrollo y automatización de sistemas automotrices, dentro del marco legal y sustentable, mediante competencias científicas, tecnológicas y administrativas, con el fin de atender las necesidades del sector automotriz, con una actitud ética, de liderazgo y responsabilidad social.",
       perfilIngreso : [
@@ -685,14 +703,15 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Sistemas-Automotrices.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERIA_EN_SISTEMAS_AUTOMOTRICES_ISAU-2013-240.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Sistemas-Automotrices.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Sistemas-Automotrices.pdf',
     };
-
+    //no hay link
     carrerasArray[18]={
       name: 'Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Tecnologias-Informacion-Comunicaciones.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Tecnologias-de-la-info-y-comunicaciones.jpg',
       youtube:'AZj3w1N7DiA',
+      videoInstitucional: "#",
       campus: 'PUERTO VALLARTA',
       objetivo: "Formar profesionistas capaces de integrar y administrar tecnologías de la información y comunicaciones, que contribuyan a la productividad y el logro de los objetivos estratégicos de las organizaciones; caracterizándose por ser líderes, críticos, competentes, éticos y con visión empresarial, comprometidos con el desarrollo sustentable.",
       perfilIngreso : [
@@ -728,6 +747,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Turismo.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Lic-Turismo.jpg',
       youtube:'WE6gIFKRW8c',
+      videoInstitucional: "https://drive.google.com/file/d/1JovGQWgOGBgFt_gs7IkyoGW7__zRnpmZ/view",
       campus: 'PUERTO VALLARTA',
       objetivo: "Formar profesionistas capaces de emprender, gestionar e innovar proyectos turísticos sustentables con calidad, acordes con las necesidades de su entorno y las tendencias globales, con sentido ético y respeto a la integridad del patrimonio turístico.",
       perfilIngreso : [
@@ -757,7 +777,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Licenciatura-en-Turismo.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/LICENCIATURA_EN_TURISMO_LTUR-2012-237.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Licenciatura-en-Turismo.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Licenciatura-en-Turismo.pdf',
     };
 
     carrerasArray[20]={
@@ -765,6 +785,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Administracion.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Lic-Administracion.jpg',
       youtube:'zFO1BChgPeE',
+      videoInstitucional: "https://drive.google.com/file/d/1vAI6wKOOsTvkJECwAos_3K9CnIVLLt89/view",
       campus: 'LA HUERTA, TEQUILA',
       objetivo: "Formar profesionales de la administración capaces de actuar como agentes de cambio, a través del diseño, innovación y dirección en organizaciones, sensibles a las demandas sociales y oportunidades del entorno, con capacidad de intervención en ámbitos globales y con un firme propósito de observar las normas y los valores universales.",
       perfilIngreso : [
@@ -795,7 +816,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Licenciatura-en-Administracion.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/LICENCIATURA_EN_ADMINISTRACIN_LADM-2010-234.pdf',
-      folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Licenciatura-en-Administracion.pdf',
+      folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Licenciatura-en-Administracion.pdf',
     };
 
     carrerasArray[21]={
@@ -803,6 +824,7 @@ export default function CarrerasData(){
       card:"http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial-Linea.jpg",
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Gestion-Empresarial-Linea.jpg',
       youtube:'PoT9UkO8TcI',
+      videoInstitucional: "https://drive.google.com/file/d/1TLg1fTadew9gfV4Enwjaeqm2unokhLQ1/view",
       campus: 'Arandas, Chapala, Cocula, El Grullo, La Huerta, Lagos de Moreno, Mascota, Tala, Tamazula, Tequila, Puerto Vallarta, Zapopan, Zapotlanejo',
       objetivo: 'Formar íntegramente profesionales que contribuyan a lagestión de empresas e innovación de procesos; así como al diseño, implementación y desarrollo de sistemas estratégicos de negocios, optimizando recursos en un entorno global, con ética y responsabilidad social.',
       perfilIngreso : [
@@ -841,6 +863,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Administracion.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Maestria-Administracion.jpg',
       youtube:'U7SZz2s2qLY',
+      videoInstitucional: "https://drive.google.com/file/d/1TGrKstup-tR9T59HBcal70Q_vRBrShED/view",
       campus: 'PUERTO VALLARTA',
       objetivo: "La Maestría en Administración, tiene como objetivo formar recursos humanos con una alta capacidad creativa e innovadora, con la destreza para el manejo de conocimientos, técnicas y habilidades que les permitan hacer frente a la problemática empresarial de forma racional, eficaz y eficientemente, aplicando los recursos que les permitan incrementar la innovación, la productividad y la tecnología, generando soluciones que mejoran la competitividad en las organizaciones y generar cambios en el entorno social, industrial y económico de Puerto Vallarta y del país.",
       perfilIngreso : [
@@ -873,6 +896,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Sistemas-Computacionales.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Maestria-Sistemas-Computacionales.jpg',
       youtube:'rdWPqiy3RRc',
+      videoInstitucional: "#",
       campus: 'ZAPOPAN',
       objetivo: "Formar líderes de excelencia con sólidos conocimientos en sistemas computacionales de alto nivel competitivo que analicen, diseñen y desarrollen software, en las áreas de multimedia y cómputo ubicuo.",
       perfilIngreso : [
@@ -908,6 +932,7 @@ export default function CarrerasData(){
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial-Linea.jpg',
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Gestion-Empresarial-Linea.jpg',
       youtube:'PoT9UkO8TcI',
+      videoInstitucional: "https://drive.google.com/file/d/1TLg1fTadew9gfV4Enwjaeqm2unokhLQ1/view",
       campus: 'Arandas, Chapala, Cocula, El Grullo, La Huerta, Lagos de Moreno, Mascota, Tala, Tamazula, Tequila, Puerto Vallarta, Zapopan, Zapotlanejo',
       objetivo: 'Formar íntegramente profesionales que contribuyan a la gestión de empresas e innovación de procesos; así como al diseño, implementación y desarrollo de sistemas estratégicos de negocios, optimizando recursos en un entorno global, con ética y responsabilidad social.',
       perfilIngreso : [

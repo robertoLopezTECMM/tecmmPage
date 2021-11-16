@@ -48,6 +48,8 @@ class Carrera extends Component{
           reticula:it.reticula,
           folleto:it.folleto,
           planEstudios:it.planEstudios,
+          videoInstitucional:it.videoInstitucional,
+
         })
       }else{
 
@@ -157,7 +159,7 @@ class Carrera extends Component{
 
             <div className="div-botonesCarrera">
               
-              {this.props.match.params.carreraId=="Maestria-en-Sistemas-Computacionales"?
+              {/* {this.props.match.params.carreraId=="Maestria-en-Sistemas-Computacionales"?
                 <a href="http://zapopan.tecmm.edu.mx/nuevoIngresoZapopan" target="_blank">
                   <button>PROCESO DE INSCRIPCIÓN</button>
                 </a>
@@ -171,15 +173,20 @@ class Carrera extends Component{
                   <button>PROCESO DE INSCRIPCIÓN</button>
                 </a>
               }
-              
+               */}
 
 
               <a href="http://edcore.tecmm.edu.mx" target="_blank">
-                <button> INSCRÍBETE</button>
+                <button>INSCRÍBETE AQUÍ</button>
               </a>
 
 
-              <button onClick={this.show.bind(this)}>VIDEO</button>
+              <button onClick={this.show.bind(this)}>VIDEO TESTIMONIAL</button>
+
+              
+              <a href={this.state.videoInstitucional} target="_blank">
+                <button> VIDEO INSTITUCIONAL</button>
+              </a>
 
 
               <a href={this.state.reticula} target="_blank">

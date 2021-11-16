@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6e86b209ad75ffad43d7",
+    "revision": "696ba330d7aa876bfb93",
     "url": "/static/css/main.2840f785.chunk.css"
   },
   {
-    "revision": "6e86b209ad75ffad43d7",
-    "url": "/static/js/main.571963e2.chunk.js"
+    "revision": "696ba330d7aa876bfb93",
+    "url": "/static/js/main.5bb3970f.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/static/js/2.7a438640.chunk.js"
   },
   {
-    "revision": "5d6f50ed2dde0e4ad455448f896c09f0",
-    "url": "/static/media/Gotham-Bold.5d6f50ed.otf"
-  },
-  {
     "revision": "1321eca61dba4b18d68f0d17f8dde8f9",
     "url": "/static/media/Gotham-Ultra.1321eca6.otf"
+  },
+  {
+    "revision": "5d6f50ed2dde0e4ad455448f896c09f0",
+    "url": "/static/media/Gotham-Bold.5d6f50ed.otf"
   },
   {
     "revision": "b54724f54d4dd3f6796e3c4cc422f998",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/static/media/Fondo-01.5ff6ddd7.jpg"
   },
   {
-    "revision": "81af82082b7f14666e2f18b878ee54c0",
+    "revision": "201c26d8631884b689d05ea0b5873d91",
     "url": "/index.html"
   }
 ];
