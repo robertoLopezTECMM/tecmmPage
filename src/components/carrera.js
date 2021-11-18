@@ -25,6 +25,8 @@ class Carrera extends Component{
       reticula:null,
       folleto:null,
       planEstudios:null,
+      institucional: false,
+      videoInstitucional: null,
     }
   }
 
@@ -67,8 +69,12 @@ class Carrera extends Component{
       this.setState({ visible: false });
   }
 
-  _onReady(event) {
+  showYoutube(institucional){
+    this.setState({ institucional: institucional });
+    this.show();
+  }
 
+  _onReady(event) {
    event.target.pauseVideo();
  }
 
@@ -90,7 +96,7 @@ class Carrera extends Component{
       <Rodal width="800" height="550" visible={this.state.visible} onClose={this.hide.bind(this)}>
           <div>
             <YouTube
-              videoId={this.state.youtube}
+              videoId={(this.state.institucional) ? this.state.videoInstitucional :this.state.youtube}
               opts={opts}
               onReady={this._onReady}
             />
@@ -176,17 +182,18 @@ class Carrera extends Component{
                */}
 
 
-              <a href="http://edcore.tecmm.edu.mx" target="_blank">
+              <a href="http://www.tecmm.edu.mx/admision" target="_blank">
                 <button>INSCRÍBETE AQUÍ</button>
               </a>
 
 
-              <button onClick={this.show.bind(this)}>VIDEO TESTIMONIAL</button>
+              <button onClick={() =>{this.showYoutube(false)}}>VIDEO TESTIMONIAL</button>
 
-              
-              <a href={this.state.videoInstitucional} target="_blank">
+              <button onClick={() =>{this.showYoutube(true)}}>VIDEO INSTITUCIONAL</button>
+
+              {/* <a href={this.state.videoInstitucional} target="_blank">
                 <button> VIDEO INSTITUCIONAL</button>
-              </a>
+              </a> */}
 
 
               <a href={this.state.reticula} target="_blank">

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "696ba330d7aa876bfb93",
+    "revision": "c8ae3a86b5442bb0d6c5",
     "url": "/static/css/main.2840f785.chunk.css"
   },
   {
-    "revision": "696ba330d7aa876bfb93",
-    "url": "/static/js/main.5bb3970f.chunk.js"
+    "revision": "c8ae3a86b5442bb0d6c5",
+    "url": "/static/js/main.745e7aea.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -20,10 +20,6 @@ self.__precacheManifest = [
     "url": "/static/js/2.7a438640.chunk.js"
   },
   {
-    "revision": "1321eca61dba4b18d68f0d17f8dde8f9",
-    "url": "/static/media/Gotham-Ultra.1321eca6.otf"
-  },
-  {
     "revision": "5d6f50ed2dde0e4ad455448f896c09f0",
     "url": "/static/media/Gotham-Bold.5d6f50ed.otf"
   },
@@ -32,11 +28,15 @@ self.__precacheManifest = [
     "url": "/static/media/GothamBook.b54724f5.ttf"
   },
   {
+    "revision": "1321eca61dba4b18d68f0d17f8dde8f9",
+    "url": "/static/media/Gotham-Ultra.1321eca6.otf"
+  },
+  {
     "revision": "5ff6ddd7fd3c2c2d6bbf7c15e9b4f3c6",
     "url": "/static/media/Fondo-01.5ff6ddd7.jpg"
   },
   {
-    "revision": "201c26d8631884b689d05ea0b5873d91",
+    "revision": "45f0294cf6cdb89ce0cd707a902a0a24",
     "url": "/index.html"
   }
 ];
