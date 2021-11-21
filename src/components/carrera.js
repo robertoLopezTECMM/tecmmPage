@@ -52,7 +52,8 @@ class Carrera extends Component{
           planEstudios:it.planEstudios,
           videoInstitucional:it.videoInstitucional,
 
-        })
+        });
+
       }else{
 
       }
@@ -88,6 +89,14 @@ class Carrera extends Component{
         autoplay: 1
       }
     };
+
+    let buttonWhats = "";
+
+    if( this.state.campus.includes("ZAPOPAN")) {
+      buttonWhats = <a href="https://wa.me/message/JD4LMSEDJ77SO1" target="_blank">
+                          <button>WAHTSAPP</button>
+                        </a>
+    }
 
 
     return(
@@ -211,6 +220,8 @@ class Carrera extends Component{
               <a href={this.state.folleto} target="_blank">
                 <button>FOLLETO</button>
               </a>
+
+              {buttonWhats}
 
             </div>
 
