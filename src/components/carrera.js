@@ -94,7 +94,7 @@ class Carrera extends Component{
 
     if( this.state.campus.includes("ZAPOPAN")) {
       buttonWhats = <a href="https://wa.me/message/JD4LMSEDJ77SO1" target="_blank">
-                          <button>WAHTSAPP</button>
+                          <button>WHATSAPP</button>
                         </a>
     }
 
