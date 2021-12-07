@@ -59,6 +59,7 @@ class Convocatorias extends Component {
         {nombre: 'CONVOCATORIA CME-GR-001-ADM-2021 VIGILANTE', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_CME-GR-001-ADM-2021_Vigilante.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA 001-CME-ZA-2021 PROFESOR T.A', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria-001-CME-ZA-2021 Prof.T.A..pdf', infoCard:''},
         {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 001/CHAPALA/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_001_CHAPALA_2021.pdf', infoCard:''},
+        {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 002/CHAPALA/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_002_CHAPALA_2021.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 001/ZAPOPAN/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_001_ZAPOPAN_2021.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 002/ZAPOPAN/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_002_ZAPOPAN_2021.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 003/ZAPOPAN/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_003_ZAPOPAN_2021.pdf', infoCard:''},
