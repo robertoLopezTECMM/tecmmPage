@@ -98,7 +98,7 @@ class DescubreTECMM extends Component{
         <div className="div-imagen-cards">
 
 
-            <a href="/Convocatorias">
+            <a href="https://sites.google.com/tecmm.edu.mx/convocatorias/inicio">
 
               <img src='http://tecmm.edu.mx/imagesReact/images/descubreTECMM/convocatorias.jpg' style={{marginRight:"2px"}} className="img-card"/>
 
