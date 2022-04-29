@@ -7,7 +7,6 @@ import Rodal from 'rodal';
 import 'rodal/lib/rodal.css';
 import YouTube from 'react-youtube';
 
-
   class CarouselItem extends Component{
 
     constructor(props){
@@ -67,7 +66,7 @@ import YouTube from 'react-youtube';
     constructor(props){
       super();
       this.state={
-        modalVisible : false,
+        visible : false,
         banners:[
           //{ref_banner:"http://dashboard.tecmm.edu.mx/bannersCarousel/2020-01-28-aceptados%202020.jpg", link:"http://dashboard.tecmm.edu.mx/documentosCarousel/2020-01-28-lista%20de%20aceptados%20presencial%20y%20distancia%20tecmm%202020.pdf"},
 
@@ -90,11 +89,42 @@ import YouTube from 'react-youtube';
       })
     }
 
+    show(link) {
+      if(link == "onClick"){
+        this.setState({ visible: true });
+      }
+    }
+
+    hide() {
+        this.setState({ visible: false });
+    }
+
+    _onReady(event) {
+      event.target.pauseVideo();
+    }
 
     render(){
+      const opts = {
+          height: '500',
+          width: '750',
+          playerVars: {
+            autoplay: 1
+          }
+        };
       return(
 
         <div className="div-principal-carouselComponent">
+                <Rodal width="800" height="550" visible={this.state.visible} onClose={this.hide.bind(this)}>
+                <div>
+                  <YouTube
+                    videoId="Sj-Q4-2XerY"
+                    id="videoBienvenida"
+                    opts={opts}
+                    onReady={this._onReady}
+                  />
+                </div>
+              </Rodal>
+
           <div className="div-carousel-carouselComponent">
             <Carousel
               width="100%"
@@ -108,7 +138,9 @@ import YouTube from 'react-youtube';
               >
 
                 {this.state.banners.map((it)=>(
-                  <CarouselItem link={it.link} image={it.ref_banner}/>
+                  <div  onClick={()=>{this.show(it.link)}} >
+                  <CarouselItem link={it.link == "onClick" ? "#": it.link} image={it.ref_banner}/>
+                  </div> 
                 ))}
 
             </Carousel>
