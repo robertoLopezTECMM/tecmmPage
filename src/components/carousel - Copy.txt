@@ -49,7 +49,7 @@ import YouTube from 'react-youtube';
         </div>
       </Rodal>
         <div >
-          <a href={(this.props.link == "onClick")? "#": this.props.link} >
+          <a href={(this.props.link == "onClick")? "#": this.props.link} onClick={}>
             <div style={{width:"100%", height:"100%"}}>
               <img style={{height:"100%"}}  src={this.props.image}/>
             </div>

@@ -54,6 +54,7 @@ class Convocatorias extends Component {
     this.state={
 
       becasArray:[
+        {nombre: 'CONVOCATORIA ZP-PAA-001-2022', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_Chromebooks.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA ZP-PAA-001-2022', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_ZP-PAA-001-2022.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA CME-PV-004-ADM-2021 VIGILANTE', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_CME-PV-004-ADM-2021_Vigilante.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA CME-CH-001-ADM-2021 VIGILANTE', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_CME-CH-001-ADM-2021_Vigilante.pdf', infoCard:''},

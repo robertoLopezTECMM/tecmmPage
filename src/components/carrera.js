@@ -27,6 +27,8 @@ class Carrera extends Component{
       planEstudios:null,
       institucional: false,
       videoInstitucional: null,
+      name: null,
+      convocatoria: null,
     }
   }
 
@@ -51,7 +53,8 @@ class Carrera extends Component{
           folleto:it.folleto,
           planEstudios:it.planEstudios,
           videoInstitucional:it.videoInstitucional,
-
+          name: it.name,
+          convocatoria: it.convocatoria,
         });
 
       }else{
@@ -91,6 +94,7 @@ class Carrera extends Component{
     };
 
     let buttonWhats = "";
+    let convocatoria = "";
 
     if( this.state.campus.includes("ZAPOPAN")) {
       buttonWhats = <a href="https://wa.me/message/JD4LMSEDJ77SO1" target="_blank">
@@ -98,6 +102,16 @@ class Carrera extends Component{
                         </a>
     }
 
+    if( this.state.name.includes("Maestria")) {
+      convocatoria = <a href={this.state.convocatoria} target="_blank">
+                        <button>CONVOCATORIA</button>
+                      </a>
+    }else{
+      convocatoria = <a href="http://www.tecmm.edu.mx/admision" target="_blank">
+                      <button>INSCRÍBETE AQUÍ</button>
+                    </a>
+    }
+    
 
     return(
       <div className="div-principal-carrera">
@@ -190,10 +204,8 @@ class Carrera extends Component{
               }
                */}
 
-
-              <a href="http://www.tecmm.edu.mx/admision" target="_blank">
-                <button>INSCRÍBETE AQUÍ</button>
-              </a>
+              
+              {convocatoria}
 
 
               <button onClick={() =>{this.showYoutube(false)}}>VIDEO TESTIMONIAL</button>

@@ -42,6 +42,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Innovacion-Agricola-Sustentable.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_INNOVACIN_AGRCOLA_SUSTENTABLE_IIAS-2010-221.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Innovacion-Agricola-Sustentable.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[1]={
@@ -86,6 +87,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Administracion.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_ADMINISTRACIN_IADM-2010-213.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Administracion.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[2]={
@@ -125,6 +127,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Ambiental.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_AMBIENTAL_IAMB-2010-206.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Ambiental.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[3]={
@@ -162,6 +165,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Animacion-Digital-y-Efectos-Visuales.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERIA_EN_ANIMACION_DIGITAL_Y_EFECTOS_VISUALES_IAEV-2012-238.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Animacion-Digital-y-Efectos-Visuales.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[4]={
@@ -194,6 +198,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Arquitectura.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/ARQUITECTURA_ARQU-2010-204.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Arquitectura.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[5]={
@@ -222,6 +227,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Civil.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_CIVIL_ICIV-2010-208.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-Civil.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[6]={
@@ -264,6 +270,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Contador-Publico.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/CONTADOR_PBLICO_COPU-2010-205.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Contador-Publico.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[7]={
@@ -294,6 +301,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Electromecanica.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_ELECTROMECNICA__IEME-2010-210.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-Electromecanica.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[8]={
@@ -337,6 +345,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Electronica.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_ELECTRNICA_IELC-2010-211.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-Electronica.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[9]={
@@ -370,6 +379,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Energias-Renovables.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_ENERGAS_RENOVABLES_IENR-2010-217.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Energias-Renovables.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[10]={
@@ -416,6 +426,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Gastronomia.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/GASTRONOMA_GAST-2010-215.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Gastronomia.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[11]={
@@ -456,6 +467,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Gestion-Empresarial.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA__EN_GESTIN_EMPRESARIAL_IGEM-2009-201.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Gestion-Empresarial.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[12]={
@@ -496,6 +508,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Industrial.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_INDUSTRIAL_IIND-2010-227.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Industrial.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[13]={
@@ -550,6 +563,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Industrias-Alimentarias.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_INDUSTRIAS_ALIMENTARIAS_IIAL-2010-219.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Industrias-Alimentarias.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[14]={
@@ -590,6 +604,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Informatica.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_INFORMTICA_IINF-2010-220.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Informatica.pdf',
+      convocatoria: "",
     };
     // no hay link
     carrerasArray[15]={
@@ -626,6 +641,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-Mecatronica.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_MECATRNICA_IMCT-2010-229.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-Mecatronica.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[16]={
@@ -634,7 +650,7 @@ export default function CarrerasData(){
       portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Sistemas.jpg',
       youtube:'Hw3TO2ZKKto',
       videoInstitucional: "ATPLCRld3FA",
-      campus: 'ARANDAS, CHAPALA, COCULA, LA HUERTA, TALA, ZAPOPAN, LAGOS DE MORENO, MASCOTA, PUERTO VALLARTA',
+      campus: 'ARANDAS, CHAPALA, COCULA, LA HUERTA, ZAPOPAN, LAGOS DE MORENO, MASCOTA, PUERTO VALLARTA',
       objetivo: "Formar profesionistas líderes, analíticos, críticos y creativos, con visión estratégica y amplio sentido ético, capaces de diseñar, implementar y administrar infraestructura computacional para aportar soluciones innovadoras en beneficio de la sociedad, en un contexto global, multidisciplinario y sustentable.",
       perfilIngreso : [
                       {perfil:"Capacidad para analizar y sintetizar conceptos."},
@@ -661,6 +677,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Sistemas-Computacionales.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_SISTEMAS_COMPUTACIONALES_ISIC-2010-224.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Sistemas-Computacionales.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[17]={
@@ -704,6 +721,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Sistemas-Automotrices.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERIA_EN_SISTEMAS_AUTOMOTRICES_ISAU-2013-240.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Ingenieria-en-Sistemas-Automotrices.pdf',
+      convocatoria: "",
     };
     //no hay link
     carrerasArray[18]={
@@ -740,6 +758,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA_EN_TECNOLOGAS_DE_LA_INFORMACIN_Y_COMUNICACIONES_ITIC-2010-225.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[19]={
@@ -778,6 +797,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Licenciatura-en-Turismo.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/LICENCIATURA_EN_TURISMO_LTUR-2012-237.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Licenciatura-en-Turismo.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[20]={
@@ -817,6 +837,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Licenciatura-en-Administracion.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/LICENCIATURA_EN_ADMINISTRACIN_LADM-2010-234.pdf',
       folleto: 'http://tecmm.edu.mx/folletosCarreras/newFolletos/Folleto-Licenciatura-en-Administracion.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[21]={
@@ -856,6 +877,7 @@ export default function CarrerasData(){
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Gestion-Empresarial.pdf',
       planEstudios: 'http://tecmm.edu.mx/planesEstudioCarreras/INGENIERA__EN_GESTIN_EMPRESARIAL_IGEM-2009-201.pdf',
       folleto:'http://tecmm.edu.mx/reticulasCarreras/Folleto-Ingenieria-en-Gestion-Empresarial-enLinea.pdf',
+      convocatoria: "",
     };
 
     carrerasArray[22]={
@@ -888,6 +910,7 @@ export default function CarrerasData(){
       ],
       reticula: null,
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Maestria-Administracion.pdf',
+      convocatoria: "http://tecmm.edu.mx/recursos/convocatoriaMaestrias/CONVOCATORIA-MTRIA-EN-ADMINISTRACION.pdf",
 
     };
 
@@ -925,6 +948,7 @@ export default function CarrerasData(){
       ],
       reticula: null,
       folleto: 'http://tecmm.edu.mx/folletosCarreras/Folleto-Maestria-Sistemas-Computacionales.pdf',
+      convocatoria: "http://tecmm.edu.mx/recursos/convocatoriaMaestrias/CONVOCATORIA-MTRIA-EN-SISTEMAS.pdf",
     };
 
     carrerasArray[24]={
@@ -963,6 +987,7 @@ export default function CarrerasData(){
       ],
       reticula: 'http://tecmm.edu.mx/reticulasCarreras/Reticula-Ingenieria-en-Gestion-Empresarial.pdf',
       folleto:'http://tecmm.edu.mx/reticulasCarreras/Folleto-Ingenieria-en-Gestion-Empresarial-enLinea.pdf',
+      convocatoria: "",
     };
 
     return carrerasArray;

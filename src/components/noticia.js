@@ -39,7 +39,7 @@ class Noticia extends Component {
 
       for(var i=0; i<data.length; i++){
         if(data[i].pathTitulo == this.props.match.params.noticiaNombre){
-          console.log(JSON.parse(data[i].contenido))
+          //console.log(JSON.parse(data[i].contenido))
           this.setState({
             titulo:data[i].titulo,
             pathTitulo:data[i].pathTitulo,

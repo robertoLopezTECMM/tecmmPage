@@ -46,8 +46,8 @@ class Rectoria extends Component {
     super();
     this.state={
       directores:[
-        {nombre: 'Hellen García Retamoza', image:"./recursos/img/directores/helen_garcia.jpg", cargo: 'Directora de Planeación y Desarrollo', telefono:"38-84-94-70", correo:'hellen.garcia@tecmm.edu.mx', mailTo:'mailto:hellen.garcia@tecmm.edu.mx'},
-        {nombre: 'Paula Ortíz Rojas', image:"./recursos/img/directores/paula_ortiz.jpg", cargo: 'Director de Área Académica, Investigación e Innovación', telefono:"38-84-94-70", correo:'paula.rojas@tecmm.edu.mx', mailTo:'mailto:director.academico@tecmm.edu.mx'},
+       // {nombre: 'Hellen García Retamoza', image:"./recursos/img/directores/helen_garcia.jpg", cargo: 'Directora de Planeación y Desarrollo', telefono:"38-84-94-70", correo:'hellen.garcia@tecmm.edu.mx', mailTo:'mailto:hellen.garcia@tecmm.edu.mx'},
+        {nombre: 'Paula Ortíz Rojas', image:"./recursos/img/directores/paula_ortiz.jpg", cargo: 'Director de Área Académica, Investigación e Innovación', telefono:"38-84-94-70", correo:'paula.ortiz@tecmm.edu.mx', mailTo:'mailto:director.academico@tecmm.edu.mx'},
         {nombre: 'Antonio Anguiano Apodaca', image:"./recursos/img/directores/antonio_anguiano.jpg", cargo: 'Director de Extensión y Vinculación', telefono:"38-84-94-70", correo:'antonio.anguiano@tecmm.edu.mx', mailTo:'mailto:antonio.anguiano@tecmm.edu.mx'},
         {nombre: 'Gerardo Reyes Chávez', image:"./recursos/img/directores/gerardo_reyes_2.jpg", cargo: 'Director de Administración y Finanzas', telefono:"38-84-94-70", correo:'gerardo.chavez@tecmm.edu.mx', mailTo:'mailto:gerardo.chavez@tecmm.edu.mx'},
         {nombre: 'Jorge Alberto Wells Mendoza', image:"./recursos/img/directores/jorge_wells.jpg", cargo: 'Director de TI', telefono:"38-84-94-70", correo:'jorge.wells@tecmm.edu.mx', mailTo:'mailto:jorge.wells@tecmm.edu.mx'},
@@ -80,28 +80,6 @@ class Rectoria extends Component {
 
           <div className="div-director">
             <div id="directores" class="ui link cards">
-
-              <div id="card-director" class="card">
-                <div class="image">
-                  <img src="./recursos/img/directores/Gualberto-Moreno-Castro.jpg"/>
-                </div>
-                <div class="content">
-                  <div id="nombre" class="header">Gualberto Castro Moreno</div>
-                  <div class="meta">
-                    <a id="puesto">Director General</a>
-                  </div>
-                  <div id="correoDirector" class="description">
-                    <i class="envelope icon"></i>
-                    gualberto.castro@tecmm.edu.mx
-                  </div>
-                </div>
-                <div id="contacto" class="extra content">
-                  <span>
-                    <i class="phone icon"></i>
-                    38-84-94-70
-                  </span>
-                </div>
-              </div>
 
             </div>
 
