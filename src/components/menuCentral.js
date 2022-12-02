@@ -108,8 +108,16 @@ class MenuCentral extends Component {
             <Dropdown.Item href="/modeloAcademico" id="dropdownItemBootstrap">Modelo Académico</Dropdown.Item>
           </Dropdown.Menu>
         </Dropdown>
+        <Dropdown >
+          <Dropdown.Toggle id="dropdownBootstrap">EDCORE</Dropdown.Toggle>
+          <Dropdown.Menu>
+            <Dropdown.Item href="https://edcore.tecmm.mx/alum" id="dropdownItemBootstrap">Edcore Alumnos</Dropdown.Item>
+            <Dropdown.Item href="https://edcore.tecmm.mx/core/login.jsp?panel=Docentes" id="dropdownItemBootstrap">Edcore Docentes</Dropdown.Item>
+            <Dropdown.Item href="https://edcore.tecmm.mx/core/login.jsp?panel=Administrativos" id="dropdownItemBootstrap">Edcore Administrativos</Dropdown.Item>
+          </Dropdown.Menu>
+        </Dropdown>
         <Nav.Item id="navItemBootstrap">
-          <Nav.Link id="navLinkBootstrap" href="/admision">
+          <Nav.Link id="navLinkBootstrap" href="http://mi.tecmm.mx/">
             ADMISIÓN
           </Nav.Link>
         </Nav.Item>

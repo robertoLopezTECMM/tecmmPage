@@ -33,6 +33,7 @@ import JuntasGobierno from './components/juntasGobierno.js'
 import Condonaciones from './components/condonaciones.js'
 import ResultadosCondonaciones from './components/resultadoCondonaciones.js'
 import admision from './components/admision.js'
+import Transparencia from './components/transparencia.js'
 
 
 
@@ -49,6 +50,7 @@ class RouterPrincipal extends Component {
             <Route path="/enConstruccion" component={EnConstruccion}/>
             {/*<Route path="/ofertaAcademica" component={OfertaAcademicaCampus}/>*/}
             <Route path="/quienesSomos" component={QuienesSomos}/>
+            <Route path="/transparencia" component={Transparencia}/>
             <Route path="/Rectoria" component={Rectoria}/>
             <Route path="/modeloAcademico" component={ModeloAcademico}/>
             <Route path="/quejasYdenuncias" component={QuejasYDenuncias}/>
@@ -72,7 +74,7 @@ class RouterPrincipal extends Component {
             <Route path="/posgrados" component={Posgrados}/>
             <Route path="/maestriaAdministracion" component={MaestriaAdministracion}/>
             <Route path="/maestriaSistemas" component={MaestriaSistemas}/>
-            <Route path="/nuevoIngreso" component={NuevoIngreso}/>
+            <Route path="/nuevoIngreso" component={admision}/>
             <Route path="/condonaciones" component={Condonaciones}/>
             <Route path="/resultadosCondonaciones" component={ResultadosCondonaciones}/>
             {/*<Route path="/generadorReferencias" component={SimpleProgressStep}/>*/}

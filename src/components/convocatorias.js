@@ -52,8 +52,9 @@ class Convocatorias extends Component {
   constructor(){
     super();
     this.state={
-
+      
       becasArray:[
+        {nombre: 'CONVOCATORIA  MUSICA', fecha:'', image:'', link:'./recursos/convocatorias/ConvocatoriaMusica.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA ZP-PAA-001-2022', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_Chromebooks.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA ZP-PAA-001-2022', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_ZP-PAA-001-2022.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA CME-PV-004-ADM-2021 VIGILANTE', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_CME-PV-004-ADM-2021_Vigilante.pdf', infoCard:''},
@@ -84,7 +85,6 @@ class Convocatorias extends Component {
         {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 002/LA HUERTA/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_002_LAHUERTA_2021.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 001/ZAPOTLANEJO/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_001_ZAPOTLANEJO_2021.pdf', infoCard:''},
         {nombre: 'CONVOCATORIA PROFESOR ASIGNATURA "A" 002/ZAPOTLANEJO/2021', fecha:'', image:'', link:'./recursos/convocatorias/Convocatoria_002_ZAPOTLANEJO_2021.pdf', infoCard:''},
-
         {nombre: 'DICTAMEN PROFESOR ASIGNATURA "A" 001/CHAPALA/2021', fecha:'', image:'', link:'./recursos/dictamenes/Dictamen_001_CHAPALA_2021.pdf', infoCard:''},
         {nombre: 'DICTAMEN PROFESOR ASIGNATURA "A" 001/ZAPOPAN/2021', fecha:'', image:'', link:'./recursos/dictamenes/Dictamen_001_ZAPOPAN_2021.pdf', infoCard:''},
         {nombre: 'DICTAMEN PROFESOR ASIGNATURA "A" 002/ZAPOPAN/2021', fecha:'', image:'', link:'./recursos/dictamenes/Dictamen_002_ZAPOPAN_2021.pdf', infoCard:''},
@@ -104,7 +104,7 @@ class Convocatorias extends Component {
         {nombre: 'DICTAMEN PROFESOR ASIGNATURA "A" 001/ARANDAS/2021', fecha:'', image:'', link:'./recursos/dictamenes/Dictamen_001_ARANDAS_2021.pdf', infoCard:''},
         {nombre: 'DICTAMEN PROFESOR ASIGNATURA "A" 001/LA HUERTA/2021', fecha:'', image:'', link:'./recursos/dictamenes/Dictamen_001_LAHUERTA_2021.pdf', infoCard:''},
         {nombre: 'DICTAMEN PROFESOR ASIGNATURA "A" 001/ZAPOTLANEJO/2021', fecha:'', image:'', link:'./recursos/dictamenes/Dictamen_001_ZAPOTLANEJO_2021.pdf', infoCard:''},
-
+        
       ]
     }
   }

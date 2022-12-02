@@ -68,8 +68,8 @@ class ContraloriaSocial extends Component{
             <button className="button-enlaces">ENLACE<br/>TECNM<br/><br/></button>
           </a>
 
-          <a href="http://tecmm.edu.mx/documentos/contraloriaSocial/Triptico-CS-2019.pdf">
-            <button className="button-enlaces">FOLLETO INFORMATIVO<br/><br/></button>
+          <a href="http://tecmm.edu.mx/documentos/contraloriaSocial/Manual-2022.pdf">
+            <button className="button-enlaces">MANUAL DE USUARIO<br/><br/></button>
           </a>
 
         </div>

@@ -50,7 +50,7 @@ import YouTube from 'react-youtube';
         <div >
           <a href={(this.props.link == "onClick")? "#": this.props.link} >
             <div style={{width:"100%", height:"100%"}}>
-              <img style={{height:"100%"}}  src={this.props.image}/>
+              <img style={{height:"100%"}}  src={'https://tecmm.edu.mx/'+this.props.image}/>
             </div>
           </a>
         </div>
@@ -137,8 +137,9 @@ import YouTube from 'react-youtube';
               emulateTouch
               >
 
-                {this.state.banners.map((it)=>(
-                  <div  onClick={()=>{this.show(it.link)}} >
+                {this.state.banners.map((it, key)=>(
+                  
+                  <div key={key} onClick={()=>{this.show(it.link)}} >
                   <CarouselItem link={it.link == "onClick" ? "#": it.link} image={it.ref_banner}/>
                   </div> 
                 ))}

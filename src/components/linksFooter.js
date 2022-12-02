@@ -71,8 +71,8 @@ class LinksFooter extends Component{
 
         <div className="listas-linksFooter">
           <a class="tag" target="_blank" href="/patentes">PATENTES</a>
-          <a class="tag" target="_blank" href="https://transparencia.info.jalisco.gob.mx/transparencia/organismo/312">TRANSPARENCIA</a>
-          <a class="tag" target="_blank" href="http://tecmm.edu.mx/calendarios/calendario-oficial-tecmm-2021.jpg">CALENDARIO</a>
+          <a class="tag" target="_blank" href="/transparencia">TRANSPARENCIA</a>
+          <a class="tag" target="_blank" href="http://tecmm.edu.mx/calendarios/CALENDARIO ESCOLAR 22-23.pdf">CALENDARIO</a>
           <a class="tag" target="_blank" href="/contraloriaSocial">CONTRALORÍA SOCIAL</a>
           <a class="tag" target="_blank" href="https://sicyt.jalisco.gob.mx/" >SICyT</a>
           <a class="tag" target="_blank" href="/rectoria">ORGANIGRAMA</a>
@@ -93,7 +93,7 @@ class LinksFooter extends Component{
 
           <div className="div-direccion">
             <a>Camino Arenero 1101, Col. El Bajio</a><br/>
-            <a>Zapopan, Jalisco, C.P. 45019</a><br/>
+            <a>Zapopan, Jalisco, C.P. 45017</a><br/>
             <a href="/contacto">consultar telefonos aqui</a>
             <div className="div-logosDireccion">
               <img src="http://tecmm.edu.mx/imagesReact/images/logos/logos.png"/>

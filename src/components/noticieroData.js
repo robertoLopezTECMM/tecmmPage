@@ -3,7 +3,23 @@ export default function NoticiasData(){
 
   var noticias = [];
 
-    noticias[0]={
+  noticias[0]={
+    titulo: 'Ruta C138 disponible en #TecMMZapopan',
+    fechaLugar: '',
+    imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt11-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt11-01.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt11-02.jpg","http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt11-03.jpg","http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt11-04.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt11-05.jpg"],
+    id:'nt11',
+    parrafosNoticia : [                   
+                    {parrafo: "El pasado 11 de octubre del 2022, el Gobernador del Estado de Jalisco; Enrique Alfaro Ramírez, el alcalde de Zapopan; Juan José Frangie, la Diputada; Mónica Magaña, Secretario de Transporte de Jalisco; Diego Monraz Villaseñor, el Secretario de Innovación, Ciencia y Tecnología; Alfonso Pompa, presentaron en el TecMM Zapopan una nueva ruta de transporte público que beneficiará a toda la comunidad estudiantil."},
+                    {parrafo: "Se trata de la ruta C 138, la cual tendrá dos vías y circularán desde las 06:00 a las 22:00 horas. La Vía 1 será Walmart Guadalupe y la Vía 2 Instituto Tecnológico Mario Molina campus Zapopan."},
+                    {parrafo: "\"Ya llegó el transporte público a la puerta aquí del Mario Molina, vamos a tener dos vías para llegar a Periférico y a la zona de Aviación y Universidad; el inicio es aquí en la puerta del Instituto, va a recorrer por la calle del arenero, va a dar vuelta en avenida Vallarta lo que es la carretera pero digamos de qué la avenida Vallarta y después se mete por aviación, al llegar a aviación va a dar vuelta en la 5 de mayo ahí en el corazón de San Juan de Ocotán para poder incorporar al periférico en donde van a poder bajar en la estación de San Juan de Ocotán, de Mi Macro Periférico\"."},
+                    {parrafo: "Ambas vías están incorporadas al sistema de recaudo, por lo cual se pueden pagar con la tarjeta de Mi Movilidad."},
+                    {parrafo: "Además, el Gobernador jalisciense, mencionó que habrá intervención a la infraestructura del TecMM, además de apoyos para que las y los estudiantes obtengan beneficios del 50 por ciento en la tarifa del transporte público"}
+                    ],
+
+  };
+
+
+    noticias[1]={
       titulo: 'Alumno del TecMM triunfa en el Premio Estatal de la Juventud 2018 en categoría científica',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt01-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt01-01.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt01/nt01-02.jpg"],
@@ -22,7 +38,7 @@ export default function NoticiasData(){
 
     };
 
-    noticias[1]={
+    noticias[2]={
       titulo: 'Finaliza la XXV Semana Nacional de Ciencia y Tecnología en Jalisco',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-01.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-02.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-03.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-04.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-05.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-06.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-07.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-08.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt02/nt02-09.jpg"],
@@ -38,7 +54,7 @@ export default function NoticiasData(){
                     ],
     };
 
-    noticias[2]={
+    noticias[3]={
       titulo: 'TecMM se une a la Red Mexicana del Pacto Mundial de las Naciones Unidas',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt03/nt03-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt03/nt03-01.jpg"],
@@ -54,7 +70,7 @@ export default function NoticiasData(){
                         ],
     };
 
-    noticias[3]={
+    noticias[4]={
       titulo: 'Santander impulsa el emprendimiento estudiantil en Jalisco',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt04/nt04-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt04/nt04-01.jpg"],
@@ -84,7 +100,7 @@ export default function NoticiasData(){
                           ],
     };
 
-    noticias[4]={
+    noticias[5]={
       titulo: 'TecMM establece alianza con ENACTUS para impulsar el emprendimiento social',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt05/nt05-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt05/nt05-01.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt05/nt05-02.jpg"],
@@ -103,7 +119,7 @@ export default function NoticiasData(){
                       ],
     };
 
-    noticias[5]={
+    noticias[6]={
       titulo: 'TecMM sigue impulsando el modelo de Educación Dual en Jalisco',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt06/nt06-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt06/nt06-01.jpg"],
@@ -121,7 +137,7 @@ export default function NoticiasData(){
                     ],
     };
 
-    noticias[6]={
+    noticias[7]={
       titulo: 'TecMM se une a URSULA para seguir impulsando la ética en su comunidad',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt07/nt07-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt07/nt07-01.jpg"],
@@ -137,7 +153,7 @@ export default function NoticiasData(){
                     ],
     };
 
-    noticias[7]={
+    noticias[8]={
       titulo: 'Jornada de Actividades en el TecMM Campus Tamazula de Gordiano.',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt08/nt08-00.jpeg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt08/nt08-01.jpeg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt08/nt08-02.jpeg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt08/nt08-03.jpeg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt08/nt08-04.jpeg"],
@@ -156,7 +172,7 @@ export default function NoticiasData(){
                     ],
     };
 
-    noticias[8]={
+    noticias[9]={
       titulo: 'Estudiantes del TecMM obtienen primer lugar en el torneo Chef Nueva Generacion',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt09/nt09-00.jpeg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt09/nt09-01.JPG"],
@@ -180,7 +196,7 @@ export default function NoticiasData(){
                     ],
     };
 
-    noticias[9]={
+    noticias[10]={
       titulo: 'Director del Campus Tamazula es galardonado como Ingeniero del Año',
       fechaLugar: '',
       imagenes: ["http://tecmm.edu.mx/imagesReact/images/noticiero/nt10/nt10-00.jpg", "http://tecmm.edu.mx/imagesReact/images/noticiero/nt10/nt10-01.jpg"],

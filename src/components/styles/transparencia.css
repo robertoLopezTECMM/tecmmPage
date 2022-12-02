@@ -1,0 +1,46 @@
+.transparenciaContainer {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.transparenciaContainer h1 {
+    font-family: "Gotham";
+    padding-top: 2rem;
+}
+.plataformas {
+    display: flex; 
+    flex-direction: column;   
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 4rem 0px 5rem 0px;
+}
+.plataforma {
+    width: 50%;
+    font-family: 'Gotham-Book';
+    color: white;
+    font-size: medium;
+    padding: 10px 0px;
+    background-color: #2da19a;
+}
+.plataformas a:hover {
+    color: #95d1ce;
+    text-decoration: none;
+}
+
+@media (max-width: 420px) {
+    .transparenciaContainer h1 {
+        font-size: x-large;
+    }
+    .plataformas {
+        padding: 2rem 1rem 3rem;
+    }
+    .plataforma {
+        width: 100%;
+        font-size: small;
+        padding: 10px 0px;
+    }
+    .plataformas a {
+        text-decoration: underline;
+    }
+}

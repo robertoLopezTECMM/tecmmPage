@@ -9,7 +9,8 @@ class admision extends Component {
   }
 
   componentDidMount(){
-      window.location.href ="http://187.174.80.183:3010/";
+     //window.location.href ="http://187.174.80.183:3010/";
+      window.location.href ="http://mi.tecmm.mx/";
   }
 
   render() {
