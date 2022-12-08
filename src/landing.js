@@ -9,6 +9,7 @@ import MenuCentral from './components/menuCentral.js'
 import Rodal from 'rodal';
 
 import './landing.css';
+import { ModalAvisos } from './components/modalAvisos.js';
 
 
 
@@ -61,7 +62,7 @@ class Landing extends Component {
           </a>
 
         </div>
-
+        <ModalAvisos/>
         <Carousel/>
         <Noticiero/>
         <DescubreTECMM/>

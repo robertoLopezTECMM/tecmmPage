@@ -48,11 +48,11 @@ class MenuCentral extends Component {
             SOMOS TECMM
             <ul>
               <li>
-                <a href="/quienesSomos">Quiénes Somos</a>
+                <a href="/quienesSomos">¿Quiénes Somos?</a>
               </li>
 
               <li>
-                <a href="/rectoria">Rectoria</a>
+                <a href="/rectoria">Directorio</a>
               </li>
 
               {/*<li>
@@ -103,8 +103,8 @@ class MenuCentral extends Component {
         <Dropdown >
           <Dropdown.Toggle id="dropdownBootstrap">SOMOS TECMM</Dropdown.Toggle>
           <Dropdown.Menu>
-            <Dropdown.Item href="/quienesSomos" id="dropdownItemBootstrap">Quienes Somos</Dropdown.Item>
-            <Dropdown.Item href="/rectoria" id="dropdownItemBootstrap">Rectoria</Dropdown.Item>
+            <Dropdown.Item href="/quienesSomos" id="dropdownItemBootstrap">¿Quiénes Somos?</Dropdown.Item>
+            <Dropdown.Item href="/rectoria" id="dropdownItemBootstrap">Directorio</Dropdown.Item>
             <Dropdown.Item href="/modeloAcademico" id="dropdownItemBootstrap">Modelo Académico</Dropdown.Item>
           </Dropdown.Menu>
         </Dropdown>
