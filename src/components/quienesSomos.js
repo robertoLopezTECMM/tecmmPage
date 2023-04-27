@@ -111,7 +111,7 @@ class QuienesSomos extends Component {
                       imagen="http://tecmm.edu.mx/imagesReact/images/quienesSomos/quienesSomos2.jpg"/>
 
         <SectionLeft titulo="RED TECMM"
-                      texto1="En Jalisco somos una red de trece unidades académicas y doce extensiones, contamos con una cobertura de Educación Superior en once de las doce regiones del Estado de Jalisco con más de 15,000 estudiantes, que nos convierte en la segunda Institución en el Estado lo que representa el 9.74% de la matrícula de Educación Superior, con 16 ingenierías, 5 licenciaturas, y 2 posgrados."
+                      texto1="En Jalisco somos una red de trece unidades académicas y tres extensiones, contamos con una cobertura de Educación Superior en once de las doce regiones del Estado de Jalisco con más de 15,000 estudiantes, que nos convierte en la segunda Institución en el Estado lo que representa el 9.74% de la matrícula de Educación Superior, con 16 ingenierías, 5 licenciaturas, y 2 posgrados."
                       texto2="Las 13 Unidades Académicas del Estado de Jalisco del Instituto Tecnológico José Mario Molina Pasquel y Henríquez son: Arandas, Chapala, Cocula, El Grullo, La Huerta, Lagos de Moreno, Mascota, Puerto Vallarta, Tala, Tamazula, Tequila, Zapopan y Zapotlanejo."
                       imagen="http://tecmm.edu.mx/imagesReact/images/quienesSomos/quienesSomos4.jpg"/>
 

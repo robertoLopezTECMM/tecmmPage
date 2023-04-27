@@ -32,7 +32,7 @@
 .redes-lateral{
   width:4%;
   height: 26%;
-  background-color: #2DA19A;
+  background-color: #01a59c;
   position:fixed;
   z-index: 30;
   margin-top: 0vh;
@@ -54,7 +54,7 @@
 }
 
 .divModalAvisoVacaciones h1{
-  color:#2DA19A;
+  color:#01a59c;
   font-family: "Gotham";
   padding-top: 50px;
 }
@@ -139,7 +139,7 @@
   }
 
   .divModalAvisoVacaciones h1{
-    color:#2DA19A;
+    color:#01a59c;
     font-family: "Gotham";
     padding-top: 50px;
     font-size: 2.5vh;

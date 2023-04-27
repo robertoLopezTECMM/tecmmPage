@@ -64,7 +64,7 @@
 
 .div-pregunta h1{
   font-family: "Gotham";
-  color: #2DA19A;
+  color: #01a59c;
 }
 
 .div-pregunta p{
@@ -84,7 +84,7 @@
   .button-enlaces{
     width:200px;
     height: 100px;
-    background-color: #2DA19A;
+    background-color: #01a59c;
     margin:1%;
     color: white;
     font-size: 1.5vh;
@@ -108,7 +108,7 @@
   .button-enlaces{
     width:150px;
     height: 80px;
-    background-color: #2DA19A;
+    background-color: #01a59c;
     margin:1%;
     color: white;
     font-size: 1.5vh;
@@ -137,7 +137,7 @@
   .button-enlaces{
     width:190px;
     height: 80px;
-    background-color: #2DA19A;
+    background-color: #01a59c;
     margin:1%;
     color: white;
     font-size: 1.5vh;

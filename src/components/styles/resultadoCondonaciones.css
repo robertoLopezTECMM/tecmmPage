@@ -14,7 +14,7 @@
   }
 
   .ResultadosCondonacionesSubtitulo{
-    color: #2DA19A;
+    color: #01a59c;
     font-family: "Gotham";
 }
 
@@ -34,7 +34,7 @@
       display: block;
       text-align: justify;
       margin:15px;
-      color:#2DA19A;
+      color:#01a59c;
       font-family: "Gotham";
       font-size: 20px;
      
@@ -42,7 +42,7 @@
 
   .enlacesCondonaciones a{
     text-decoration: none;
-    color:#2DA19A;
+    color:#01a59c;
   }
 
   .enlacesCondonaciones a:hover{

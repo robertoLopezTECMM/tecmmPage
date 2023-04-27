@@ -13,7 +13,7 @@
 .btn-typeUser{
   width: 250px;
   height: 100px;
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color:white;
   font-family: "Gotham-Ultra";
   font-size: 30px;
@@ -65,7 +65,7 @@
   margin-left: 20%;
   margin-top: 5px;
   display: block;
-  border:1px solid #2DA19A;
+  border:1px solid #01a59c;
   border-radius: 5px;
   outline: none;
 }
@@ -74,7 +74,7 @@
   margin: 3%;
   width: 150px;
   height: 50px;
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color:white;
   font-family: "Gotham-Ultra";
   font-size: 15px;
@@ -99,7 +99,7 @@
 
 .tableAlumno th{
   width: 20%;
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color: white;
   font-family: "Gotham";
 }
@@ -127,7 +127,7 @@
 
 
 #btnDescargar{
-  background-color: #2DA19A;
+  background-color: #01a59c;
 
 }
 

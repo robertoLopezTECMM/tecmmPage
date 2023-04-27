@@ -25,7 +25,7 @@
 
 .div-aviso h1{
 
-  color:#2DA19A;
+  color:#01a59c;
   font-family: "Gotham-Ultra";
   font-size: 5vh;
 }
@@ -37,7 +37,7 @@
 }
 
 .div-aviso h2{
-  color: #2DA19A;
+  color: #01a59c;
   font-family: "Gotham";
   font-size: 3vh;
 }
@@ -65,7 +65,7 @@
 
 
 .li-botones-eneit div:hover{
-  color:#2DA19A;
+  color:#01a59c;
 }
 
 .img-logosGobierno{
@@ -151,7 +151,7 @@
 
 
 .div-evento h1{
-  color:#2DA19A;
+  color:#01a59c;
   font-family: "Gotham-Ultra";
   font-size: 5vh;
   margin-top: 2%;
@@ -312,7 +312,7 @@
 
 .div-martes h1{
   font-family: "Gotham-Ultra";
-  color:#2DA19A;
+  color:#01a59c;
 }
 
 .div-martes th {
@@ -337,7 +337,7 @@
 }
 
 .div-martes tr:nth-child(even){
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color:white;
 }
 
@@ -394,7 +394,7 @@
 
 .div-jueves h1{
   font-family: "Gotham-Ultra";
-  color:#2DA19A;
+  color:#01a59c;
 }
 
 .div-jueves th {
@@ -419,7 +419,7 @@
 }
 
 .div-jueves tr:nth-child(even){
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color:white;
 }
 
@@ -567,7 +567,7 @@
 }
 
 .div-contacto{
-  border: 5px #2DA19A dashed;
+  border: 5px #01a59c dashed;
   width: 50%;
   margin-left:25%;
   margin-top: 5%;
@@ -1115,7 +1115,7 @@
 
   .div-miercoles h1{
     font-family: "Gotham-Ultra";
-    color:#2DA19A ;
+    color:#01a59c ;
   }
 
   .div-miercoles th {
@@ -1139,7 +1139,7 @@
   }
 
   .div-miercoles tr:nth-child(even){
-    background-color: #2DA19A;
+    background-color: #01a59c;
     color:white;
   }
 
@@ -1197,7 +1197,7 @@
 
   .div-viernes h1{
     font-family: "Gotham-Ultra";
-    color:#2DA19A;
+    color:#01a59c;
   }
 
   .div-viernes th {
@@ -1221,7 +1221,7 @@
   }
 
   .div-viernes tr:nth-child(even){
-    background-color: #2DA19A;
+    background-color: #01a59c;
     color:white;
   }
 

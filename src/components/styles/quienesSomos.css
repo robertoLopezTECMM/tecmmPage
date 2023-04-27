@@ -18,7 +18,7 @@
 }
 
 #verde{
-  background-color: #2DA19A;
+  background-color: #01a59c;
 }
 
 #morado{
@@ -53,7 +53,7 @@
   width: 50%;
   height: 50px;
   background-color: transparent;
-  border: solid 3px #2DA19A;
+  border: solid 3px #01a59c;
   border-radius: 10px;
   color:white;
   font-family: "Gotham-Ultra";
@@ -61,7 +61,7 @@
 }
 
 #morado button:hover{
-  background-color: #2DA19A;
+  background-color: #01a59c;
 }
 
 #verde button{
@@ -142,7 +142,7 @@
   }
 
   #verde{
-    background-color: #2DA19A;
+    background-color: #01a59c;
   }
 
   #morado{

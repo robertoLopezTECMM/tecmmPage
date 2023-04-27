@@ -83,7 +83,7 @@
 }
 
 .ordenDiaContainer h2{
-    color:#2DA19A;
+    color:#01a59c;
     font-family: "Gotham";
     line-height: 20px;
     font-size: 20px;
@@ -141,7 +141,7 @@
 
 #sesionAnterior{
     text-decoration: none;
-    color:#2DA19A;
+    color:#01a59c;
 }
 
 .sesionesAnterioresContainer ol{
@@ -204,7 +204,7 @@
     }
 
     #negritas{
-        color:#2DA19A;
+        color:#01a59c;
         font-family: "Gotham";
     }
 

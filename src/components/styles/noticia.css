@@ -81,7 +81,7 @@
 }
 
 .h2-subtituloNoticia{
-  color: #2DA19A;
+  color: #01a59c;
   font-family: "Gotham";
   text-align: justify;
 }
@@ -117,7 +117,7 @@
 }
 
 .timelineItem h1{
-  color:#2DA19A;
+  color:#01a59c;
   font-size:2vh;
   padding: 2px;
   text-align: justify;
@@ -128,7 +128,7 @@
 
 .timelineItem a{
   font-family: "Gotham";
-  color:#2DA19A;
+  color:#01a59c;
   cursor: pointer;
   font-style: italic;
 }
@@ -192,7 +192,7 @@
   }
 
   .h2-subtituloNoticia{
-    color: #2DA19A;
+    color: #01a59c;
     font-family: "Gotham";
   }
 }
@@ -239,7 +239,7 @@
   }
 
   .h2-subtituloNoticia{
-    color: #2DA19A;
+    color: #01a59c;
     font-family: "Gotham";
   }
 
@@ -365,7 +365,7 @@
   }
 
   .h2-subtituloNoticia{
-    color: #2DA19A;
+    color: #01a59c;
     font-family: "Gotham";
     text-align: justify;
   }
@@ -404,7 +404,7 @@
 
 
   .timelineItem h1{
-    color:#2DA19A;
+    color:#01a59c;
     font-size:1vh;
     padding: 2px;
     width: 100%;
@@ -417,7 +417,7 @@
   .timelineItem a{
     width: 100%;
     font-family: "Gotham";
-    color:#2DA19A;
+    color:#01a59c;
     cursor: pointer;
     font-style: italic;
   }

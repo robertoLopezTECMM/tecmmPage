@@ -8,7 +8,7 @@
   z-index: 100;
   width:70px;
   height: 50px;
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color:white;
   bottom:50%;
   right: 0;
@@ -88,7 +88,7 @@
   text-align: justify;
   color: white;
   display: flex;
-  background-color: #2DA19A;
+  background-color: #01a59c;
 }
 
 .objetivoContainer h1{
@@ -164,7 +164,7 @@
   text-align: justify;
   color:white;
   padding: 1%;
-  background-color: #2DA19A;
+  background-color: #01a59c;
 }
 
 .perfilIngreso h1{
@@ -230,7 +230,7 @@
 
 
 .nucleoAcademicoContainer{
-  background-color: #2DA19A;
+  background-color: #01a59c;
 }
 
 .ui.four.doubling.cards{
@@ -240,7 +240,7 @@
 }
 
 .header{
-  color:#2DA19A!important;
+  color:#01a59c!important;
   font-family: "Gotham"!important;
 }
 
@@ -365,7 +365,7 @@
     text-align: justify;
     color:white;
     padding: 1%;
-    background-color: #2DA19A;
+    background-color: #01a59c;
   }
 
   .perfilIngreso h1{
@@ -406,7 +406,7 @@
 
   .header{
     font-size: 1.7vh!important;
-    color:#2DA19A!important;
+    color:#01a59c!important;
     font-family: "Gotham"!important;
   }
 

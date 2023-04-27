@@ -73,17 +73,17 @@
   background-color: white;
   width: 150px;
   height: 55px;
-  color:#2DA19A;
+  color:#01a59c;
   font-family: "Gotham";
   outline: none;
   cursor: pointer;
-  border: 2px #2DA19A solid;
+  border: 2px #01a59c solid;
   border-radius: 10px;
 
 }
 
 .button-enviarDenuncia:hover{
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color:white;
 }
 

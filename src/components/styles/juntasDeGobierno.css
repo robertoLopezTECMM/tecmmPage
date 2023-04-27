@@ -24,7 +24,7 @@
 
 .div-oficios-juntasDeGobierno h2{
   text-align: justify;
-  color:#2DA19A;
+  color:#01a59c;
   font-family: "Gotham";
   margin-bottom: 15px;
   font-size: 2.5vh;
@@ -67,7 +67,7 @@
 
 .nav-link.active{
 
-  background-color: #2DA19A !important;
+  background-color: #01a59c !important;
 }
 
 .div-lista-juntasDeGobierno{
@@ -94,7 +94,7 @@
   padding:2%;
   border-radius: 10px;
   border: solid 2px #6D356C;
-  background-color: #2DA19A;
+  background-color: #01a59c;
   color: black;
   text-decoration: none;
 
@@ -109,7 +109,7 @@
 @media(min-width:100px) and (max-width: 420px){
   .div-oficios-juntasDeGobierno h2{
     text-align: justify;
-    color:#2DA19A;
+    color:#01a59c;
     font-family: "Gotham";
     line-height:20px ;
     font-size: 2vh;
@@ -162,7 +162,7 @@
     padding:2%;
     border-radius: 10px;
     border: solid 2px #6D356C;
-    background-color: #2DA19A;
+    background-color: #01a59c;
     color: black;
     text-decoration: none;
   }
@@ -174,7 +174,7 @@
 
   .div-oficios-juntasDeGobierno h2{
     text-align: justify;
-    color:#2DA19A;
+    color:#01a59c;
     font-family: "Gotham";
     margin-bottom:40px;
     font-size: 2vh;
@@ -196,7 +196,7 @@
 @media(min-width:2500px) and (max-width:5000px){
   .div-oficios-juntasDeGobierno h2{
     text-align: justify;
-    color:#2DA19A;
+    color:#01a59c;
     font-family: "Gotham";
     line-height:20px ;
     font-size: 2vh;

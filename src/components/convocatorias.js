@@ -113,7 +113,7 @@ class Convocatorias extends Component {
     return (
       <div className="div-principalConvocatorias">
         <MenuCentral/>
-          <h1 style={{color:"#2DA19A", fontFamily:"Gotham-Ultra", fontSize:"4vh"}}>CONVOCATORIAS</h1>
+          <h1 style={{color:"#01a59c", fontFamily:"Gotham-Ultra", fontSize:"4vh"}}>CONVOCATORIAS</h1>
           <div class="ui link cards">
             {this.state.becasArray.map((it)=>(
               <BecasItem nombre={it.nombre} fecha={it.fecha} image={it.image} link={it.link} infoCard={it.infoCard}/>

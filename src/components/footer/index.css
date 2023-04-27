@@ -1,0 +1,48 @@
+.ubicationContainer{
+    width: 100%;
+    height: 45vh;
+    background-color: var(--navyBlue);
+    display: flex;
+}
+
+.direccionMap{
+    width: 60%;
+}
+
+.addressAndRedesContainer{
+    width: 40%;
+    padding: 2vh 2vh 0% 2vh;
+    text-align: left;
+}
+.addressAndRedesContainer h3{
+    font-size: 1.5vh;
+    color:white;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}                                      
+.addressAndRedesContainer p{
+    font-size: 1.5vh;
+    color:white;
+    margin: 0px;
+    line-height: none;
+    
+}
+
+
+.addressContainer{
+    width: 100%;
+    height: 10vh;
+    /* background-color: pink; */
+}
+
+.redesImgContainer{
+    height: 20vh;
+    /* background-color: blue; */
+    text-align: center;
+    padding-top: 5vh
+}
+
+.visualCapabilitiesContainer{
+    /* background-color: aquamarine; */
+    height: 10vh;
+}

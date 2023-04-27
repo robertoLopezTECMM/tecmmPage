@@ -21,7 +21,7 @@
 }
 
 .tag{
-  border-bottom: 1px solid #2DA19A;
+  border-bottom: 1px solid #01a59c;
   color:white;
   font-size: 12px;
   font-family: "Gotham";
@@ -31,7 +31,7 @@
 }
 
 .tag:hover{
-  color:#2DA19A;
+  color:#01a59c;
 }
 
 
@@ -91,7 +91,7 @@
 .divModalAccesibilidad ul{
   list-style-type: decimal;
   text-align: left;
-  color:#2DA19A;
+  color:#01a59c;
 
 }
 

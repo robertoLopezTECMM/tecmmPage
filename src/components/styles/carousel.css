@@ -30,7 +30,7 @@
     position: absolute;
     width:30%;
     height: 60px;
-    background-color: #2DA19A;
+    background-color: #01a59c;
     right:62%;
 
     color: white;
@@ -44,7 +44,7 @@
   }
 
   .btn1Oferta:hover{
-    background-color: #2DA19A;
+    background-color: #01a59c;
     opacity: 0.8;
   }
 
@@ -53,7 +53,7 @@
     width:30%;
     height: 60px;
     right:31%;
-    background-color: #2DA19A;
+    background-color: #01a59c;
     color: white;
     font-size: 15px;
     font-family: 'Gotham-Ultra';
@@ -65,7 +65,7 @@
   }
 
   .btn2Campus:hover{
-    background-color: #2DA19A;
+    background-color: #01a59c;
     opacity: 0.8;
   }
 
@@ -73,7 +73,7 @@
     position: absolute;
     width:30%;
     height: 60px;
-    background-color: #2DA19A;
+    background-color: #01a59c;
     right:0%;
     color: white;
     font-size: 15px;
@@ -86,7 +86,7 @@
   }
 
   .btn3Escolares:hover{
-    background-color: #2DA19A;
+    background-color: #01a59c;
     opacity: 0.8;
   }
 
@@ -191,7 +191,7 @@
   }
 
   .btn1Oferta:hover{
-    background-color: #2DA19A;
+    background-color: #01a59c;
     opacity: 0.8;
   }
 
@@ -213,7 +213,7 @@
   }
 
   .btn2Campus:hover{
-    background-color: #2DA19A;
+    background-color: #01a59c;
     opacity: 0.8;
   }
 
@@ -235,7 +235,7 @@
   }
 
   .btn3Escolares:hover{
-    background-color: #2DA19A;
+    background-color: #01a59c;
     opacity: 0.8;
   }
 

@@ -6,7 +6,7 @@ import Campus from './components/campus.js';
 import EnConstruccion from './components/enConstruccion.js';
 import OfertaAcademica from './components/ofertaAcademica.js'
 import QuienesSomos from './components/quienesSomos.js'
-import Rectoria from './components/rectoria.js'
+import {Rectoria} from './components/rectoria.js'
 import ModeloAcademico from './components/modeloAcademico.js'
 import QuejasYDenuncias from './components/quejasYDenuncias.js'
 import DenunciaOmisiones from './components/denunciaOmisiones.js'
@@ -34,6 +34,7 @@ import Condonaciones from './components/condonaciones.js'
 import ResultadosCondonaciones from './components/resultadoCondonaciones.js'
 import admision from './components/admision.js'
 import Transparencia from './components/transparencia.js'
+import NewLanding from './screens/landing/index.jsx';
 
 
 

@@ -7,7 +7,7 @@ export default function CarrerasData(){
     carrerasArray[0]={
       name: 'Ingenieria-en-Innovacion-Agricola-Sustentable',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovacion-Agricola-Sustentable.jpg',
-      portada: "http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Innovacion-Agricola.jpg",
+      portada: "https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-03.jpg",
       youtube:'qvIWinTFRzo',
       videoInstitucional: "HXcpQfI72Bo",
       campus: "COCULA, TALA, TAMAZULA, ZAPOTLANEJO",
@@ -48,7 +48,7 @@ export default function CarrerasData(){
     carrerasArray[1]={
       name: 'Ingenieria-en-Administracion',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Administracion.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Adnministracion.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-10.jpg',
       youtube:'SiklbYKU46E',
       videoInstitucional: "PQvsRYS3hZ0",
       campus: 'LA HUERTA, TALA, TAMAZULA, ZAPOTLANEJO' ,
@@ -93,7 +93,7 @@ export default function CarrerasData(){
     carrerasArray[2]={
       name: 'Ingenieria-Ambiental',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Ambiental.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Ambiental.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-18.jpg',
       youtube:'0W4nKuE804U',
       videoInstitucional: "qISRetksfrA",
       campus: 'ARANDAS',
@@ -133,7 +133,7 @@ export default function CarrerasData(){
     carrerasArray[3]={
       name: 'Ingenieria-en-Animacion-Digital-y-Efectos-Visuales',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Animacion-Efectos-Audiovisuales.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Animacion.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-04.jpg',
       youtube:'q5VUA47oAgQ',
       videoInstitucional: "4LMrqdyR8fQ",
       campus: 'CHAPALA',
@@ -171,7 +171,7 @@ export default function CarrerasData(){
     carrerasArray[4]={
       name: 'Arquitectura',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Arquitectura.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Arquitectura.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-11.jpg',
       youtube:'1Vt2xyS547s',
       videoInstitucional: "8yMYKTH0wps",
       campus: 'EL GRULLO, LA HUERTA, PUERTO VALLARTA, TALA',
@@ -204,7 +204,7 @@ export default function CarrerasData(){
     carrerasArray[5]={
       name: 'Ingenieria-Civil',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Civil.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Civil.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-19.jpg',
       youtube:'t17aryJFc4E',
       videoInstitucional: "7RJfYbbp34c",
       campus: 'LAGOS DE MORENO, TEQUILA, ZAPOPAN',
@@ -233,7 +233,7 @@ export default function CarrerasData(){
     carrerasArray[6]={
       name: 'Contador-Publico',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Contador-Publico.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Contador.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-05.jpg',
       youtube:'5BStNwjphLE',
       videoInstitucional: "CziPXTipdvo",
       campus: 'ZAPOTLANEJO',
@@ -276,7 +276,7 @@ export default function CarrerasData(){
     carrerasArray[7]={
       name: 'Ingenieria-Electromecanica',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electromecanica.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Electromecanica.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-12.jpg',
       youtube:'rxlPixDE6hc',
       videoInstitucional: "gYBLRrY3Pfg",
       campus: 'ARANDAS, PUERTO VALLARTA, COCULA, TAMAZULA, EL GRULLO, TEQUILA, ZAPOPAN',
@@ -307,7 +307,7 @@ export default function CarrerasData(){
     carrerasArray[8]={
       name: 'Ingenieria-Electronica',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Electronica.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Electronica.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-20.jpg',
       youtube:'WcYZn4rosuY',
       videoInstitucional: "3u5VE2SSBoU",
       campus: 'ZAPOPAN',
@@ -351,7 +351,7 @@ export default function CarrerasData(){
     carrerasArray[9]={
       name: 'Ingenieria-en-Energias-Renovables',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Innovaion-Energias-Renovables.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Energias-Renovables.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-06.jpg',
       youtube:'vwYNq_elvMw',
       videoInstitucional: "FRMgk8ZD9JY",
       campus: 'TEQUILA',
@@ -385,7 +385,7 @@ export default function CarrerasData(){
     carrerasArray[10]={
       name: 'Gastronomia',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Gastronomia.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Gastronomia.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-13.jpg',
       youtube:'oqqy3VjBR_8',
       videoInstitucional: "u9xh7Jj1cu0",
       campus: 'CHAPALA, PUERTO VALLARTA, ZAPOPAN',
@@ -432,7 +432,7 @@ export default function CarrerasData(){
     carrerasArray[11]={
       name: 'Ingenieria-en-Gestion-Empresarial',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Gestion-Empresarial.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-24.jpg',
       youtube:'SIbWitsNhu0',
       videoInstitucional: "vLiViO4OsFk",
       campus: 'ARANDAS, PUERTO VALLARTA, CHAPALA, COCULA, EL GRULLO, TEQUILA, LA HUERTA, LAGOS DE MORENO, ZAPOPAN',
@@ -473,7 +473,7 @@ export default function CarrerasData(){
     carrerasArray[12]={
       name: 'Ingenieria-Industrial',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrial.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Industrial.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-07.jpg',
       youtube:'8GONm_MoLLs',
       videoInstitucional: "rcG4DQh9X2c",
       campus: 'ARANDAS, CHAPALA, COCULA, EL GRULLO, TEQUILA, ZAPOPAN, ZAPOTLANEJO, LAGOS DE MORENO, MASCOTA, TALA',
@@ -514,7 +514,7 @@ export default function CarrerasData(){
     carrerasArray[13]={
       name: 'Ingenieria-en-Industrias-Alimentarias',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Industrias-Alimentarias.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Industrias-Alimentarias.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-14.jpg',
       youtube:'no1wsBPtCrI',
       videoInstitucional: "tbmEoE6wSzo      ",
       campus: 'ARANDAS, MASCOTA, LA HUERTA, TAMAZULA',
@@ -569,7 +569,7 @@ export default function CarrerasData(){
     carrerasArray[14]={
       name: 'Ingenieria-Informatica',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Informatica.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Informatica.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-22.jpg',
       youtube:'ehgXAgsrqRA',
       videoInstitucional: "a4aMltEoY-o",
       campus: 'EL GRULLO, TEQUILA, ZAPOTLANEJO',
@@ -610,7 +610,7 @@ export default function CarrerasData(){
     carrerasArray[15]={
       name: 'Ingenieria-Mecatronica',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Mecatronica.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Mecatronica.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-08.jpg',
       youtube:'kfC5hNMCzq0',
       videoInstitucional: "#",
       campus: 'CHAPALA',
@@ -647,7 +647,7 @@ export default function CarrerasData(){
     carrerasArray[16]={
       name: 'Ingenieria-en-Sistemas-Computacionales',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Computacionales.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Sistemas.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-15.jpg',
       youtube:'Hw3TO2ZKKto',
       videoInstitucional: "ATPLCRld3FA",
       campus: 'ARANDAS, CHAPALA, COCULA, LA HUERTA, ZAPOPAN, LAGOS DE MORENO, MASCOTA, PUERTO VALLARTA',
@@ -683,7 +683,7 @@ export default function CarrerasData(){
     carrerasArray[17]={
       name: 'Ingenieria-en-Sistemas-Automotrices',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Sistemas-Automotrices.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Automotriz.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-23.jpg',
       youtube:'2YdDo4GJMWM',
       videoInstitucional: "KkH60AN6dg8",
       campus: 'LAGOS DE MORENO',
@@ -727,7 +727,7 @@ export default function CarrerasData(){
     carrerasArray[18]={
       name: 'Ingenieria-en-Tecnologias-de-la-Informacion-y-Comunicaciones',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Tecnologias-Informacion-Comunicaciones.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Tecnologias-de-la-info-y-comunicaciones.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-09.jpg',
       youtube:'AZj3w1N7DiA',
       videoInstitucional: "#",
       campus: 'PUERTO VALLARTA',
@@ -764,7 +764,7 @@ export default function CarrerasData(){
     carrerasArray[19]={
       name: 'Licenciatura-en-Turismo',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Turismo.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Lic-Turismo.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-16.jpg',
       youtube:'WE6gIFKRW8c',
       videoInstitucional: "h6n0vM-3bdI",
       campus: 'PUERTO VALLARTA',
@@ -803,7 +803,7 @@ export default function CarrerasData(){
     carrerasArray[20]={
       name: 'Licenciatura-en-Administracion',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Administracion.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Lic-Administracion.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-21.jpg',
       youtube:'zFO1BChgPeE',
       videoInstitucional: "Hgv_R9b-TGs",
       campus: 'LA HUERTA, TEQUILA',
@@ -883,7 +883,7 @@ export default function CarrerasData(){
     carrerasArray[22]={
       name: 'Maestria-en-Administracion',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Administracion.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Maestria-Administracion.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-17.jpg',
       youtube:'U7SZz2s2qLY',
       videoInstitucional: "p2zos8KuCxY",
       campus: 'PUERTO VALLARTA',
@@ -917,7 +917,7 @@ export default function CarrerasData(){
     carrerasArray[23]={
       name: 'Maestria-en-Sistemas-Computacionales',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Maestria-Sistemas-Computacionales.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Maestria-Sistemas-Computacionales.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-01.jpg',
       youtube:'rdWPqiy3RRc',
       videoInstitucional: "#",
       campus: 'ZAPOPAN',
@@ -954,7 +954,7 @@ export default function CarrerasData(){
     carrerasArray[24]={
       name: 'Ingenieria-en-Gestion-Empresarial-en-Linea',
       card:'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Cards-Carreras-Nuevos/Card-Ing-Gestion-Empresarial-Linea.jpg',
-      portada: 'http://tecmm.edu.mx/imagesReact/images/ofertaAcademicaNueva/Ing-Gestion-Empresarial-Linea.jpg',
+      portada: 'https://tecmm.edu.mx/web-tsj-designs/portadasCarreras/Carreras-Banners-02.jpg',
       youtube:'PoT9UkO8TcI',
       videoInstitucional: "J6izdocayPA",
       campus: 'Arandas, Chapala, Cocula, El Grullo, La Huerta, Lagos de Moreno, Mascota, Tala, Tamazula, Tequila, Puerto Vallarta, Zapopan, Zapotlanejo',

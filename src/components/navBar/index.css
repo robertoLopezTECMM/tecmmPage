@@ -1,0 +1,23 @@
+.navBarContainer{
+
+    border-bottom: solid var(--blue) 3px;
+}
+
+#bootstrapNav{
+    padding-left: 10%;
+}
+
+#navLink{
+    box-shadow: 12px 0 15px -4px rgba(16, 16, 16, 0.5), -12px 0 8px -4px rgba(16, 16, 16, 0.5);
+
+}
+
+
+@media (min-width:2200px){ 
+    #bootstrapNav{
+        width: 100%;
+        padding-left:0%;
+        background-color: red;
+    }
+    
+}

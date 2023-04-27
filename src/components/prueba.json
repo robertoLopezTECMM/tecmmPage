@@ -1,0 +1,221 @@
+
+{	
+        "Titulo": "Cuarta sesión ordinaria",
+		"Fecha": "2022-12-12",
+		"Habilitar_Comentarios": true,
+		"Tipo": 1,
+		"Temas": [
+			{
+				"tema": "I. Lista de asistencia y declaración del quórum legal.",
+				"archivos":[
+					{
+						"nombre": "1.- LISTA DE ASISTENCIA 4.a Ordinaria. 12.12.2022.pdf",
+						"url": "https://developer.tecmm.mx:3318/files/1.-%20LISTA%20DE%20ASISTENCIA%204.a%20Ordinaria.%2012.12.2022.pdf"
+					}
+				]
+			},
+			{
+				"tema": "II. Lectura, y en su caso aprobación del orden del día.",
+				"archivos": [
+					{
+						"nombre": "2.- ORDEN DEL DIA 4a. 12.12.2022.pdf",
+						"url": "https://developer.tecmm.mx:3318/files/2.-%20ORDEN%20DEL%20DIA%204a.%2012.12.2022.pdf"
+					}
+				]
+			},
+			{
+				"tema": "III. Lectura, y en su caso aprobación del acta de la sesión anterior.",
+				"archivos":[
+					{
+						"nombre": "3.- ACTA 3.A. S.O. 05.08.2022.pdf",
+						"url": "https://developer.tecmm.mx:3318/files/3.-%20ACTA%203.A.%20S.O.%2005.08.2022.pdf"
+					}
+				]
+			},
+			{
+				"tema": "IV. Revisión del avance en la ejecución de acuerdos previos.",
+				"archivos": [
+                    {
+						"nombre": "Seguimiento de acuerdos 4a Sesión Ordinaria 2022 12.12.2022",
+						"url": "https://developer.tecmm.mx:3318/files/Seguimiento%20de%20acuerdos%204a%20Sesion%20Ordinaria%202022%2012.12.2022.pdf"
+					},
+					{
+						"nombre": "1 ANEXO T SO-03-18-19 RIPPPA 2022 FINAL",
+						"url": "https://developer.tecmm.mx:3318/files/1%20ANEXO%20T%20SO-03-18-19%20RIPPPA%202022%20%20FINAL.pdf"
+					},
+                    {
+						"nombre": "2 PROYECTO REGLAMENTO INTERNO TECMM (07-12-22)",
+						"url": "https://developer.tecmm.mx:3318/files/2%20PROYECTO%20REGLAMENTO%20INTERNO%20TECMM%20(07-12-22).pdf"
+					},
+                    {
+						"nombre": "3 ANEXO SO.04.02.2020 Carreras a cierre 2022",
+						"url": "https://developer.tecmm.mx:3318/files/3%20ANEXO%20SO.04.02.2020%20Carreras%20a%20cierre%202022.pdf"
+					},
+                    {
+						"nombre": "4 ANEXO Plan Mantenimiento, 05 edificios y Construcción de edificios (1)",
+						"url": "https://developer.tecmm.mx:3318/files/4%20ANEXO%20Plan%20Mantenimiento,%2005%20edificios%20y%20Construccion%20de%20edificios%20(1).pdf"
+					},
+                    {
+						"nombre": "5 ANEXO SO.02.05.2021 Planta potabilizadora de la Unidad Tamazula",
+						"url": "https://developer.tecmm.mx:3318/files/5%20ANEXO%20SO.02.05.2021%20Planta%20potabilizadora%20de%20la%20Unidad%20Tamazula.pdf"
+					},
+                    {
+						"nombre": "6 ANEXO INFEJAL_Entrega Estacionamientos_oct. 2022",
+						"url": "https://developer.tecmm.mx:3318/files/6%20ANEXO%20INFEJAL_Entrega%20Estacionamientos_oct.%202022.pdf"
+					},
+                    {
+						"nombre": "7 ANEXO Oficio No. TecMM-DAF-0448-2022 Baja de parque vehicular Acuerdo SO-03-10-2021",
+						"url": "https://developer.tecmm.mx:3318/files/7%20ANEXO%20Oficio%20No.%20TecMM-DAF-0448-2022%20Baja%20de%20parque%20vehicular%20Acuerdo%20SO-03-10-2021.pdf"
+					},
+                    {
+						"nombre": "8 ANEXO SO-03-10-21 Relación de 20 vehículos para baja 30.11.2022",
+						"url": "https://developer.tecmm.mx:3318/files/8%20ANEXO%20SO-03-10-21%20Relacion%20de%2020%20vehiculos%20para%20baja%2030.11.2022.pdf"
+					},
+                    {
+						"nombre": "9 ANEXO Cancha de Usos Múltiples Unidad Académica Mascota",
+						"url": "https://developer.tecmm.mx:3318/files/9%20ANEXO%20Cancha%20de%20Usos%20Multiples%20Unidad%20Academica%20Mascota.pdf"
+					},
+                    {
+						"nombre": "10 ANEXO Renovación Contrato de Comodato de Vehículos 2022 01.04.2022",
+						"url": "https://developer.tecmm.mx:3318/files/10%20ANEXO%20Renovacion%20Contrato%20de%20Comodato%20de%20Vehiculos%202022%2001.04.2022.pdf"
+					},
+                    {
+						"nombre": "11 ANEXO SO.01.05.22 Capacitación 2022",
+						"url": "https://developer.tecmm.mx:3318/files/11%20ANEXO%20SO.01.05.22%20Capacitacion%202022.pdf"
+					},
+                    {
+						"nombre": "12 ANEXO SO-02-02-22 Manual para depuración y cancelación de saldos 17.11.2022 (1)",
+						"url": "https://developer.tecmm.mx:3318/files/12%20ANEXO%20SO-02-02-22%20Manual%20para%20depuracion%20y%20cancelacion%20de%20saldos%2017.11.2022%20(1).pdf"
+					},
+                    {
+						"nombre": "13 ANEXO TecMM-DG-684-2022 Analisis y validación de ingresos propios a SICyT",
+						"url": "https://developer.tecmm.mx:3318/files/13%20ANEXO%20TecMM-DG-684-2022%20Analisis%20y%20validacion%20de%20ingresos%20propios%20a%20SICyT.pdf"
+					},
+                    {
+						"nombre": "14 ANEXO SO-02-03-22 Addendum -80 millones",
+						"url": "https://developer.tecmm.mx:3318/files/14%20ANEXO%20SO-02-03-22%20Addendum%20-80%20millones.pdf"
+					},
+                    {
+						"nombre": "15 ANEXO SO-02-05-22 Manual Imagen autorizado por la SICyT",
+						"url": "https://developer.tecmm.mx:3318/files/15%20ANEXO%20SO-02-05-22%20Manual%20Imagen%20autorizado%20por%20la%20SICyT.pdf"
+					},
+                    {
+						"nombre": "16 ANEXO SE-02-01-22 UA Tepatitlán",
+						"url": "https://developer.tecmm.mx:3318/files/16%20ANEXO%20SE-02-01-22%20UA%20Tepatitlan.pdf"
+					},
+                    {
+						"nombre": "17 ANEXO ACUERDO AVANCE MIR Y ATP 2023 05.08.2022",
+						"url": "https://developer.tecmm.mx:3318/files/17%20ANEXO%20ACUERDO%20AVANCE%20MIR%20Y%20ATP%202023%2005.08.2022.pdf"
+					},
+                    {
+						"nombre": "18 ANEXO ATP MIR 2023 3.A. S.O. 05.08.2022",
+						"url": "https://developer.tecmm.mx:3318/files/18%20ANEXO%20ATP%20MIR%202023%203.A.%20S.O.%2005.08.2022.pdf"
+					},
+                    {
+						"nombre": "19 ANEXO SO-03-05-22 UA Tomatlán",
+						"url": "https://developer.tecmm.mx:3318/files/19%20ANEXO%20SO-03-05-22%20UA%20Tomatlan.pdf"
+					},
+                    {
+						"nombre": "20 ANEXO CONVENIO TEC EN LINEA-PLAI",
+						"url": "https://developer.tecmm.mx:3318/files/20%20ANEXO%20CONVENIO%20TEC%20EN%20LINEA-PLAI.pdf"
+					},
+                    {
+						"nombre": "21 ANEXO Adjudicación Tec en Linea 02.12.2022",
+						"url": "https://developer.tecmm.mx:3318/files/21%20ANEXO%20Adjudicacion%20Tec%20en%20Linea%2002.12.2022.pdf"
+					},
+                    {
+						"nombre": "22 ANEXO Transferencias entre partidas",
+						"url": "https://developer.tecmm.mx:3318/files/22%20ANEXO%20Transferencias%20entre%20partidas.pdf"
+					},
+                    {
+						"nombre": "23 ANEXO BSE-05-01-22 Hacienda Visto Bueno DGPPEGPPRO18112022.pdf",
+						"url": "https://developer.tecmm.mx:3318/files/23%20ANEXO%20BSE-05-01-22%20Hacienda%20Visto%20Bueno%20DGPPEGPPRO18112022.pdf"
+					}
+				]
+			},
+			{
+				"tema": "V. Solicitudes de Acuerdos.",
+				"subtemas": [
+                    {
+						"tema": "ACUERDOS 4a S.O. 12.12.2022 p.",
+						"url": "https://developer.tecmm.mx:3318/files/ACUERDOS%204a%20S.O.%2012.12.2022%20p..pdf"
+					},
+					{
+						"tema": "1. Presentación, y en su caso aprobación de la adecuación al acuerdo SO-02.05.2021, referente a la Planta Potabilizadora de Agua de la unidad académica Tamazula emanado del seguimiento de acuerdos de la 2ª Sesión Ordinaria del 2022. Anexo A.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20A%20PROYECTO%20TAMAZULA.pdf"
+					},
+					{
+						"tema": "2. Presentación, y en su caso aprobación, del informe de actividades del ciclo escolar enero 2022 – junio 2022 y del inicio del semestre agosto 2022 – diciembre 2022 del Instituto Tecnológico José Mario Molina Pasquel y Henríquez. Anexo B.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20B%20INFORME%20DE%20ACTIVIDADES%202022.pdf"
+					},
+					{
+						"tema": "3. Presentación, y en su caso aprobación del informe de estados financieros, avance presupuestal y avance en el cumplimiento MIR 2022. Anexo C.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20C%20Informe%20Financiero%20a%20octubre%202022.pdf"
+					},
+					{
+						"tema": "4. Presentación, y en su caso aprobación de la actualización del reglamento de ingresos propios del Instituto Tecnológico José Mario Molina Pasquel y Henríquez. Anexo D.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20D%20Reformas%20al%20Reglamento%20de%20ingresos%20propios%2012.12.2022.pdf"
+					},
+					{
+						"tema": "5. Presentación, y en su caso aprobación “Código de Conducta del Instituto Tecnológico José Mario Molina Pasquel y Henríquez”. Anexo E.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20E%20CODIGO%20DE%20CONDUCTA%20DEL%20TECMM%202022.pdf"
+					},
+					{
+						"tema": "6. Presentación y en su caso aprobación de la liquidación de saldos de cuentas por pagar con dos empresas de los ejercicios fiscales 2017 y 2019. Anexo F.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20F%20Pago%20adeudos%202017-2019.pdf"
+					},
+					{
+						"tema": "7. Presentación, y en su caso aprobación para que el encargado de despacho de la Dirección General del Instituto inicié los trámites para la apertura de la Unidad Académica San Juan de los Lagos del Instituto Tecnológico José Mario Molina Pasquel y Henríquez a solicitud del H. Ayuntamiento de San Juan de Los Lagos, toda vez que el estudio de pertinencia avala la necesidad de un Instituto Tecnológico en la región mencionada. Anexo G.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20G%20SAN%20JUAN%20DE%20LOS%20LAGOS.pdf"
+					},
+					{
+						"tema": "8. Presentación, y en su caso aprobación del catálogo de aportaciones de servicios escolares del ejercicio 2023. Anexo H.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20H%20APORTACIONES%202023.pdf"
+					},
+					{
+						"tema": "9. Presentación, y en su caso aprobación del Calendario de Sesiones Ordinarias Para la H. Junta de Gobierno del ejercicio fiscal 2023. Anexo I.",
+						"url": "https://developer.tecmm.mx:3318/files/ANEXO%20I%20PROPUESTA%20DE%20PROGRAMA%20DE%20SESIONES%20ORDINARIAS%202023.pdf"
+					}
+				]
+			},
+            {
+				"tema": "VI. Asuntos Generales",
+				"subtemas": [
+					{
+						"tema": "1. Presentación del estatus jurídico de la posesión de los predios de las Unidades Académicas del Instituto.",
+						"url": ""
+					},
+					{
+						"tema": "2. Informe de actividades del Órgano Interno de Control.",
+						"url": ""
+					},
+					{
+						"tema": "3. Informe de actividades de la Coordinación de Control Interno Institucional.",
+						"url": ""
+					},
+					{
+						"tema": "4. Puntos adicionales para agregarse al inicio de la sesión.",
+						"url": ""
+					}
+				]
+			},
+            {
+				"tema": "VII. Lectura y firma de Acuerdos.",
+				"archivos":[
+					{
+						"nombre": "",
+						"url": ""
+					}
+				]
+			},
+            {
+				"tema": "VIII. Clausura de la Sesión.",
+				"archivos":[
+					{
+						"nombre": "",
+						"url": ""
+					}
+				]
+			}
+		]
+}

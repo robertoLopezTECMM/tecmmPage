@@ -1,17 +1,17 @@
 {
-  "main.css": "/static/css/main.77d980ca.chunk.css",
-  "main.js": "/static/js/main.596bfd19.chunk.js",
-  "main.js.map": "/static/js/main.596bfd19.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/css/2.0cfdd5d4.chunk.css": "/static/css/2.0cfdd5d4.chunk.css",
-  "static/js/2.942ac882.chunk.js": "/static/js/2.942ac882.chunk.js",
-  "static/js/2.942ac882.chunk.js.map": "/static/js/2.942ac882.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.d9885e3a29dc99ca020dcd0b031cc247.js": "/precache-manifest.d9885e3a29dc99ca020dcd0b031cc247.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/2.0cfdd5d4.chunk.css.map": "/static/css/2.0cfdd5d4.chunk.css.map",
-  "static/css/main.77d980ca.chunk.css.map": "/static/css/main.77d980ca.chunk.css.map",
-  "static/media/juntasDeGobierno.css": "/static/media/Fondo-01.5ff6ddd7.jpg",
-  "static/media/landing.css": "/static/media/GothamBook.b54724f5.ttf"
+  "files": {
+    "main.css": "/static/css/main.8bb208e2.css",
+    "main.js": "/static/js/main.4230467a.js",
+    "static/media/Fondo-01.jpg": "/static/media/Fondo-01.0f64208957b4060abb58.jpg",
+    "static/media/GothamBook.ttf": "/static/media/GothamBook.58fb9151c57e59668f17.ttf",
+    "static/media/Gotham-Bold.otf": "/static/media/Gotham-Bold.511bff968009fbd4430c.otf",
+    "static/media/Gotham-Ultra.otf": "/static/media/Gotham-Ultra.7313dff8cc1d3277279e.otf",
+    "index.html": "/index.html",
+    "main.8bb208e2.css.map": "/static/css/main.8bb208e2.css.map",
+    "main.4230467a.js.map": "/static/js/main.4230467a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bb208e2.css",
+    "static/js/main.4230467a.js"
+  ]
 }
